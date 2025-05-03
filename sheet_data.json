@@ -1,0 +1,4034 @@
+[
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Phidippus audax",
+    "Fun Fact": "Phidippus audax, also known as the daring jumping spider, not only has amazing vision that allows it to hunt with incredible accuracy, but it can also see in ultraviolet (UV) light! Scientists believe this helps them spot prey and potential mates. Talk about seeing the world in a whole new light!\n",
+    "Name": "Bold Jumping Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Cornu aspersum",
+    "Fun Fact": "Garden snails, *Cornu aspersum*, are hermaphrodites, meaning they have both male and female reproductive organs! However, they usually still prefer to mate with another snail to mix up their genetic material. Talk about complicated dating!\n",
+    "Name": "Garden Snail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Selasphorus rufus",
+    "Fun Fact": "Rufous Hummingbirds are some of the feistiest little guys around! Despite being only about 3 inches long, they're incredibly territorial and will fearlessly chase away birds much larger than themselves, including hawks and eagles, from their feeding areas!\n",
+    "Name": "Rufous Hummingbird",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Leiothlypis celata",
+    "Fun Fact": "Don't let the name fool you! The Orange-crowned Warbler's \"crown\" is usually hidden under its grayish-green feathers. You're more likely to see a flash of yellow under its tail than the namesake orange!\n",
+    "Name": "Orange-crowned Warbler",
+    "Rarity": 2
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Hemidactylus turcicus",
+    "Fun Fact": "Don't be surprised if you see a Mediterranean House Gecko seemingly glowing under a blacklight! Their skin contains compounds that fluoresce a bright, almost ethereal, blue color when exposed to UV light. \n",
+    "Name": "Mediterranean House Gecko",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eucalyptolyma maideni",
+    "Fun Fact": "Think twice before blaming that pesky leaf damage on just any bug! The *Eucalyptolyma maideni*, a type of psyllid, is a sneaky sap-sucker that can actually create its own homes *inside* eucalyptus leaves, causing little blister-like galls to form!\n",
+    "Name": "Spotted Gum Lerp Psyllid",
+    "Rarity": 5
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Sciurus niger",
+    "Fun Fact": "Fox Squirrels are expert jumpers, but they sometimes misjudge their leaps and fall from trees! Don't worry, though! They can often spread their limbs and use their bushy tails like a parachute to soften their landing, making them remarkably resilient acrobats.\n",
+    "Name": "Eastern Fox Squirrel",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Harmonia axyridis",
+    "Fun Fact": "These ladybugs can be real chameleons! While most ladybugs are red with black spots, Asian lady beetles come in a surprising variety of colors and patterns, ranging from orange to yellow to black, and with varying numbers of spots (or even none at all!). This makes them some of the most diverse-looking ladybugs out there!\n",
+    "Name": "Asian Lady Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Corvus brachyrhynchos",
+    "Fun Fact": "American Crows are notorious for their problem-solving skills! They've been observed using tools, like sticks and stones, to get food they otherwise couldn't reach. Some have even learned to use traffic to crack open nuts!\n",
+    "Name": "American Crow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sitta canadensis",
+    "Fun Fact": "Red-breasted Nuthatches are like tiny, upside-down acrobats of the bird world! They're famous for their ability to climb down trees headfirst, a skill that helps them find insects and seeds hidden in the bark that other birds might miss. It's like having a built-in gravity cheat code!\n",
+    "Name": "Red-breasted Nuthatch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Psaltriparus minimus",
+    "Fun Fact": "Bushtits are so tiny and energetic that they often forage upside down while clinging to twigs, looking like tiny, fluffy gymnasts swinging through the trees!\n",
+    "Name": "Bushtit",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Melospiza lincolnii",
+    "Fun Fact": " While the Lincoln's Sparrow might be shy and hard to spot, their beautiful song, often described as a bubbling, tinkling melody, is surprisingly loud and complex for such a small bird! They often sing from concealed perches, making you think the music is coming from nowhere!\n",
+    "Name": "Lincoln's Sparrow",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Sassacus vitis",
+    "Fun Fact": "Don't let their small size fool you! Grapeleaf jumping spiders are known to be excellent jumpers, leaping up to 50 times their body length to catch unsuspecting prey – often right off your grapevines! Talk about a high-flying predator with a taste for pest control!\n",
+    "Name": "Buttonhook Leafbeetle Jumping Spider",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Apis mellifera",
+    "Fun Fact": "Honey bees are such efficient workers that they visit approximately *two million* flowers to make just one pound of honey! Talk about a sweet job!\n",
+    "Name": "Western Honey Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Limacus flavus",
+    "Fun Fact": "Don't be surprised if you see a *Limacus flavus* with a vibrant personality! These slugs are sometimes called \"leopard slugs\" due to their spotted patterns, and they're known for their quirky mating rituals. They hang from a slimy rope and intertwine like acrobats, exchanging sperm!\n",
+    "Name": "Yellow Cellar Slug",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Copestylum mexicanum",
+    "Fun Fact": "Don't let their appearance fool you! While the *Copestylum mexicanum* looks like a bee mimic, buzzing around cacti to sip nectar, they're actually helping keep the desert tidy! Their larvae are decomposers, feasting on decaying cacti and contributing to the desert ecosystem by recycling nutrients.\n",
+    "Name": "Mexican Cactus Fly",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Junco hyemalis",
+    "Fun Fact": "Dark-eyed Juncos are often called \"snowbirds\" because their appearance in winter is a sign that colder weather is on its way!\n",
+    "Name": "Dark-eyed Junco",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Siphanta acuta",
+    "Fun Fact": "Don't let their adorable green color fool you, green planthoppers are masters of camouflage! They blend so perfectly with leaves that you might not even notice them until they jump away with surprising speed!\n",
+    "Name": "Torpedo Bug",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Schistocerca nitens",
+    "Fun Fact": "This grasshopper is a real jet-setter! *Schistocerca nitens* is considered one of the most widespread grasshopper species in the Americas, known for its long-distance migrations. Sometimes, swarms of these grasshoppers can travel hundreds of miles, showing up unexpectedly in new territories, bringing their appetite with them!\n",
+    "Name": "Gray Bird Grasshopper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Pipilo maculatus",
+    "Fun Fact": "Spotted Towhees are masters of the \"double-scratch!\" They use both feet at the same time to hop backwards and dig through leaf litter, uncovering tasty bugs and seeds hiding underneath. It's like a tiny, two-footed bulldozer!\n",
+    "Name": "Spotted Towhee",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Zonotrichia leucophrys",
+    "Fun Fact": "White-crowned Sparrows have regional dialects! Just like people have different accents, these birds sing unique songs depending on where they learned them. Scientists can even use these song dialects to track the movements of different sparrow populations!\n",
+    "Name": "White-crowned Sparrow",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga coronata",
+    "Fun Fact": "Yellow-rumped Warblers are known as the \"butterbutts\" of the bird world because of their bright yellow patch on their, well, rump! And unlike most warblers, they can actually digest berries, which allows them to survive further north and in harsher conditions during the winter.\n",
+    "Name": "Yellow-rumped Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Haemorhous mexicanus",
+    "Fun Fact": "The male House Finch's red coloring comes from pigments called carotenoids found in its food! Birds who eat more carotenoid-rich foods, like certain seeds and berries, will sport a brighter, more attractive red. So, a vibrant red House Finch is basically advertising, \"I've got the best snacks!\"\n",
+    "Name": "House Finch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga townsendi",
+    "Fun Fact": "Townsend's Warblers are like tiny, masked bandits of the forest! The males sport striking black masks and throats, making them look like they're ready to pull off a daring heist of the juiciest insects.\n",
+    "Name": "Townsend's Warbler",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Zonotrichia atricapilla",
+    "Fun Fact": "Golden-crowned Sparrows have a surprisingly simple song, often described as a melancholic \"oh-dear-me.\" Some people even interpret it as \"I'm so tired!\" So, if you hear a sad little tune in the Pacific Northwest, it might just be a Golden-crowned Sparrow expressing the universal feeling of needing a nap!\n",
+    "Name": "Golden-crowned Sparrow",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Buteo jamaicensis",
+    "Fun Fact": "Red-tailed Hawks have incredible eyesight - they can spot a mouse from up to 100 feet in the air! That's like seeing something the size of your thumb from the length of a football field!\n",
+    "Name": "Red-tailed Hawk",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Aphelocoma californica",
+    "Fun Fact": "California Scrub-Jays are notorious food hoarders! They bury acorns and seeds in thousands of different locations, remembering where they are months later using a remarkable spatial memory. This helps them survive lean times, but sometimes they \"forget\" a few, inadvertently planting new oak trees!\n",
+    "Name": "California Scrub-Jay",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Icerya purchasi",
+    "Fun Fact": "Don't let the fluffy, cotton-like appearance fool you! That \"cotton\" on the back of the Cottony Cushion Scale is actually an egg sac that can contain thousands of eggs. Imagine lugging around that many kids at once!\n",
+    "Name": "Cottony cushion scale",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Steatoda nobilis",
+    "Fun Fact": "Despite their somewhat intimidating reputation and potential to deliver a painful bite, noble false widow spiders are actually quite shy! They'd much rather run and hide than confront a human, and bites usually only occur when they feel directly threatened, like when they're accidentally trapped in clothing or bedding. So, treat them with respect, and they'll likely leave you alone!\n",
+    "Name": "Noble False Widow",
+    "Rarity": 2
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Trachemys scripta",
+    "Fun Fact": "Red-eared Sliders are champion sunbathers! They spend a lot of time basking on logs and rocks to regulate their body temperature.  Sometimes, you'll even see them stacked on top of each other, creating a turtle \"sunbathing tower\"!\n",
+    "Name": "Pond Slider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Oxychilus draparnaudi",
+    "Fun Fact": "Despite their name, glass snails aren't made of glass! They're called that because their shells are so thin and translucent, you can sometimes see the snail's organs inside, giving them a glassy appearance!\n",
+    "Name": "Draparnaud's Glass Snail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Baeolophus inornatus",
+    "Fun Fact": "Oak Titmice are cavity nesters, and while they'll use old woodpecker holes or natural cavities, they're also surprisingly fond of using man-made structures...like abandoned pipes or even bluebird boxes! Talk about making themselves at home in suburbia!\n",
+    "Name": "Oak Titmouse",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Buteo lineatus",
+    "Fun Fact": "Red-shouldered Hawks are notorious for being noisy neighbors! They have a loud, piercing \"kee-aah\" call that they repeat frequently, especially during mating season, making sure everyone in the forest knows they're around!\n",
+    "Name": "Red-shouldered Hawk",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Bombycilla cedrorum",
+    "Fun Fact": "Cedar Waxwings are like the social butterflies of the bird world, often traveling in large flocks and even passing berries back and forth to each other like feathered party guests sharing snacks! \n",
+    "Name": "Cedar Waxwing",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga coronata auduboni",
+    "Fun Fact": "This little songbird boasts a splash of vibrant yellow on its throat, crown, and rump, leading some birders to jokingly call it the \"Butterbutt\"!\n",
+    "Name": "Audubon's Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Allograpta obliqua",
+    "Fun Fact": "*Allograpta obliqua* is a tiny superhero in your garden! While the adults sip nectar and pollinate flowers, their larvae are voracious aphid-eating machines, helping to keep pesky plant-suckers in check. They're like miniature, flying ladybugs!\n",
+    "Name": "Oblique Streaktail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dioprosopa clavata",
+    "Fun Fact": "This peculiar fly has eyes that stick out so far on stalks that it looks like it's wearing goofy antennae! These long stalks are all about attracting a mate - the males with the longest eyestalks are usually the most popular with the ladies.\n",
+    "Name": "Four-speckled Hover Fly",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bombus melanopygus",
+    "Fun Fact": "Bombus melanopygus is a bit of a color-changer! While many bumble bees have similar yellow and black patterns, the Black-Tailed Bumble Bee boasts a variable fur coat. Some individuals sport vibrant red bands alongside their black tails, making them a surprisingly flashy garden visitor!\n",
+    "Name": "Black-tailed Bumble Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Toxomerus occidentalis",
+    "Fun Fact": "The Toxomerus occidentalis is a flower fly (hoverfly) that's a double threat in your garden! While the adults sip nectar and help pollinate your flowers, their larvae are ravenous predators of aphids, making them tiny bodyguards for your plants. So, don't swat at these little guys; they're working hard to keep your garden healthy and beautiful!\n",
+    "Name": "Western Calligrapher",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Zenaida macroura",
+    "Fun Fact": "Mourning Doves are champion nappers! They can doze off with one eye open, allowing half of their brain to rest while the other stays alert for predators. Talk about multitasking!\n",
+    "Name": "Mourning Dove",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sialia mexicana",
+    "Fun Fact": "Western Bluebirds are often seen \"hawking\" for insects - that's bird-speak for flying out from a perch to snatch a bug right out of the air, like a tiny, blue-feathered fighter jet!\n",
+    "Name": "Western Bluebird",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Danaus plexippus",
+    "Fun Fact": "Monarch butterflies are famous for their incredible multi-generational migration! The monarchs you see fluttering around your garden likely aren't the same ones that started the journey south – it takes several generations to complete the entire migratory loop, with each generation playing a role in the grand adventure!\n",
+    "Name": "Monarch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Cardellina pusilla",
+    "Fun Fact": "Wilson's Warblers are notorious tail-waggers! They constantly flick their tails from side to side, a behavior that's thought to help them flush out insects hiding in vegetation. So, if you see a tiny yellow bird wagging its tail like it's trying to start a party, chances are it's a busy Wilson's Warbler on the hunt!\n",
+    "Name": "Wilson's Warbler",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Spinus tristis",
+    "Fun Fact": "American Goldfinches are strict vegetarians! Unlike many other songbirds that feed insects to their young, Goldfinches feed their babies regurgitated seeds, making them one of the few bird species that doesn't require insects to raise a family.\n",
+    "Name": "American Goldfinch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nymphalis antiopa",
+    "Fun Fact": "Mourning Cloak butterflies are real survivors! Unlike most butterflies that spend winter as a pupa or migrate, the adult Mourning Cloak hibernates right through the coldest months, sometimes even under piles of snow! They emerge surprisingly early in the spring, often before other butterflies are even thinking about waking up.\n",
+    "Name": "Mourning Cloak",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga nigrescens",
+    "Fun Fact": "Black-throated Gray Warblers are like tiny acrobats of the forest! They're known for their incredibly active foraging style, flitting from branch to branch and even hanging upside down to snatch insects from the undersides of leaves.\n",
+    "Name": "Black-throated Gray Warbler",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Patagioenas fasciata",
+    "Fun Fact": "Unlike most other pigeons, Band-tailed Pigeons are known for their boisterous communal bathing! Large groups will gather at mineral springs and muddy banks, all jostling for a dip in the mineral-rich waters. They may be taking in the sodium that has been found to be important to their diet.\n",
+    "Name": "Band-tailed Pigeon",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Calypte anna",
+    "Fun Fact": "Anna's Hummingbirds are like tiny acrobats of the sky! The males have a dazzling iridescent pink throat and head, and they perform elaborate courtship displays, diving straight down from heights of up to 100 feet before pulling up right in front of the female with a loud \"chirp\" made by their tail feathers! Talk about making a grand entrance!\n",
+    "Name": "Anna's Hummingbird",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Streptopelia decaocto",
+    "Fun Fact": "Eurasian Collared-Doves are incredibly successful invaders! Originating in Asia, they spread across Europe in the 20th century and then rapidly colonized North America, all thanks to a combination of escapes from captivity and natural dispersal. Now, their cooing song is a familiar sound in many towns and cities!\n",
+    "Name": "Eurasian Collared-Dove",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Epichrysocharis burwelli",
+    "Fun Fact": "*Epichrysocharis burwelli* is a tiny wasp that's a parasitoid, meaning it lays its eggs inside other insects. In this case, it targets leaf-mining caterpillars! So, while it might sound a bit gruesome, this little wasp plays a vital role in keeping those leaf-munching caterpillars in check, helping to protect our plants!\n",
+    "Name": "Eucalyptus gall-forming wasp",
+    "Rarity": 5
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Thryomanes bewickii",
+    "Fun Fact": "Bewick's Wrens are known for their constantly wagging tails! They use this behavior not just for balance, but also as a way to communicate with each other and show off their personality. It's like they're always saying, \"Check me out, I'm busy (and cute)!\"\n",
+    "Name": "Bewick's Wren",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Linepithema humile",
+    "Fun Fact": "Don't let their tiny size fool you! Argentine ants are master colonists. They form massive, interconnected supercolonies that can stretch for hundreds, even thousands, of miles! Imagine a single, giant ant family spanning across continents!\n",
+    "Name": "Argentine Ant",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pheidole navigans",
+    "Fun Fact": "Forget swimming lessons! *Pheidole navigans* is an ant species known for its unique ability to surf! These little guys live in mangrove forests and when flooded, they link their bodies together to form a raft and paddle with their legs to navigate the water, searching for dry land and food. Talk about teamwork!\n",
+    "Name": "Navigating Big-headed Ant",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Microcentrum rhombifolium",
+    "Fun Fact": "Greater Angle-Wing Katydids have a built-in camouflage! Their bright green, leaf-like appearance is so convincing that they can perfectly mimic foliage, making them almost invisible to predators. But here's the funny part: sometimes they even have \"damage\" markings that look like holes or blemishes, further enhancing their disguise as a slightly imperfect leaf!\n",
+    "Name": "Greater Anglewing",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Vanessa annabella",
+    "Fun Fact": "The West Coast Lady butterfly is a bit of a wanderer! Unlike some butterflies that stay close to their breeding grounds, the West Coast Lady is known for its long-distance migrations, sometimes reaching hundreds of miles in search of food sources or suitable habitats. They're basically the butterflies of the open road!\n",
+    "Name": "West Coast Lady",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Forficula auricularia",
+    "Fun Fact": "Earwigs (Forficula auricularia) aren't really interested in crawling into your ears! Their common name comes from an old myth that they would, but they're much more interested in munching on decaying plants and fungi in your garden.\n",
+    "Name": "European Earwig Complex",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Gonyodiscus rotundatus",
+    "Fun Fact": "*Gonyodiscus rotundatus* is a tiny, single-celled algae that's a whiz at carbon capture! It plays a surprisingly big role in helping the ocean absorb carbon dioxide from the atmosphere, even though it's practically microscopic. Think of it as a miniature, but mighty, environmental champion!\n",
+    "Name": "Rounded Snail",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nephus sordidus",
+    "Fun Fact": "Don't let the name \"sordidus\" fool you! This tiny ladybug (the name means \"dirty\" or \"dingy\") is actually a cleanliness expert! *Nephus sordidus* voraciously eats scale insects, helping keep plants pest-free and sparkling clean! They're like miniature janitors for your garden!\n",
+    "Name": "Little Brown Mealybug Destroyer",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Druon quercuslanigerum",
+    "Fun Fact": "Don't let the \"worm\" in Woolly Oakworm fool you! It's not a true worm, but the caterpillar stage of a moth. And while they can strip oak trees of their leaves, they're like nature's temporary hairdressers – the trees usually bounce back just fine!\n",
+    "Name": "Wool-bearing Gall Wasp",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aphis nerii",
+    "Fun Fact": "Oleander Aphids are basically walking all-you-can-eat buffets of poison! These bright yellow bugs feed almost exclusively on oleander plants, which are highly toxic. They can even sequester the toxins in their bodies, making them unpalatable to some predators and further amplifying their vibrant color as a warning sign.\n",
+    "Name": "Oleander Aphid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cycloneda sanguinea",
+    "Fun Fact": "Don't let the name \"Spotless\" fool you! While many *Cycloneda sanguinea* lady beetles lack spots, some do sport a few, making them the rebels of the spotless ladybug world! This variation helps them blend into different environments and avoid predators.\n",
+    "Name": "Spotless Lady Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Bipalium adventitium",
+    "Fun Fact": "Forget being a picky eater! The hammerhead flatworm, *Bipalium adventitium*, is a cannibalistic predator that enjoys feasting on earthworms. It paralyzes its prey with a neurotoxin and then slurps them up like spaghetti using a tube-like mouth!\n",
+    "Name": "Wandering Broadhead Planarian",
+    "Rarity": 3
+  },
+  {
+    "Type": "Crustacean\n",
+    "Scientific Name": "Armadillidium vulgare",
+    "Fun Fact": "Armadillidium vulgare, the humble roly-poly, can actually drink through its butt! They have specialized structures called pleopodal lungs on their abdomen that allow them to absorb water from damp surfaces. So next time you see one curled up in a ball, it might just be taking a little drink!\n",
+    "Name": "Common Pill Woodlouse",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Paralaoma servilis",
+    "Fun Fact": "Don't let their tiny size fool you! *Paralaoma servilis*, a land snail barely bigger than the head of a pin, is a global globetrotter! They've hitched rides with humans to become one of the most widely distributed snail species in the world, showing impressive adaptability despite their miniature stature.\n",
+    "Name": "Pinhead Spot Snail",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga occidentalis",
+    "Fun Fact": "Hermit Warblers are notorious for hybridizing with Townsend's Warblers where their ranges overlap! These \"hybrid\" warblers can sport a mix of the two species' striking yellow and black plumage, making them a real challenge for birdwatchers to identify!\n",
+    "Name": "Hermit Warbler",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Selasphorus sasin",
+    "Fun Fact": "Allen's Hummingbirds are tiny but tough! The male's elaborate courtship display involves a \"shuttle display\" where he flies back and forth in a U-shape at incredible speeds, creating a buzzing sound that can reach speeds of up to 60 miles per hour relative to the female!  Talk about putting on a show!\n",
+    "Name": "Allen's Hummingbird",
+    "Rarity": 2
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Trachemys scripta elegans",
+    "Fun Fact": "Red-eared sliders are like tiny time travelers! They're one of the most popular pet turtles in the world, but their popularity has led to them becoming an invasive species in many places, outcompeting native turtles and changing ecosystems. So, while they might seem chill in their tanks, they can be quite disruptive in the wild!\n",
+    "Name": "Red-eared Slider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Stigmella braunella",
+    "Fun Fact": "*Stigmella braunella* is a tiny moth whose larvae are like miniature interior designers! They mine the leaves of birch trees, creating intricate, wiggly tunnels that look like tiny abstract art galleries. So, next time you see a birch leaf with squiggly lines, you might be looking at a larval masterpiece commissioned by a very discerning moth caterpillar!\n",
+    "Name": "Braun's Stigmella Moth\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sabulodes aegrotata",
+    "Fun Fact": "Don't let their fuzzy appearance fool you! California Oakworm Moth caterpillars are notorious defoliators of oak trees, especially in California. A single outbreak can strip entire trees bare, but surprisingly, the trees usually bounce back just fine! Talk about tough love from Mother Nature's tiny lawnmowers!\n",
+    "Name": "Omnivorous Looper",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aphis spiraecola",
+    "Fun Fact": "Don't let the name fool you! While they *love* spirea plants, Spirea Aphids are real globetrotters!  They can feed on hundreds of different plant species, making them one of the most polyphagous (meaning \"many-eating\") aphids out there.  So, even if you don't have spirea, these tiny sap-suckers might still be interested in your garden!\n",
+    "Name": "Spiraea Aphid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Oncopeltus fasciatus",
+    "Fun Fact": "Milkweed bugs are like tiny fashionistas! They get their bright orange and black warning colors directly from the toxic milkweed they eat. It's a walking \"Do Not Eat\" sign that helps them avoid becoming a tasty snack for predators.\n",
+    "Name": "Large Milkweed Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Cochlicopa lubrica",
+    "Fun Fact": "This tiny snail, the Cochlicopa lubrica, is a secret survivalist! It can withstand being frozen solid for weeks and still happily slime its way back to life when thawed! Talk about cool under pressure (or rather, ice)!\n",
+    "Name": "Glossy Pillar",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pogonortalis doclea",
+    "Fun Fact": "*Pogonortalis doclea* males have ridiculously long eye stalks - sometimes longer than their entire body! These stalks aren't just for show; they're like built-in rulers in a macho competition. Males use them to \"size each other up\" during courtship, with the fly boasting the biggest eye span often winning the affections of a female!\n",
+    "Name": "Boatman Fly",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Blastopsylla occidentalis",
+    "Fun Fact": "Don't let its small size fool you! The psyllid *Blastopsylla occidentalis* is a tiny sap-sucker with a big appetite for Eucalyptus trees. In large numbers, it can cause significant damage, leading to leaf drop and even impacting the overall health of eucalyptus forests!\n",
+    "Name": "Eucalyptus Shoot Psyllid",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Glycaspis brimblecombei",
+    "Fun Fact": "Glycaspis brimblecombei, despite being super tiny, is a real globetrotter! It hitched a ride from Australia to California in 1998 and quickly spread, becoming a major nuisance to eucalyptus trees. Talk about an unwanted houseguest! 🌏✈️ \n",
+    "Name": "Red Gum Lerp Psyllid",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Turdus migratorius",
+    "Fun Fact": "You might think of worms as their only snack, but American Robins are actually total opportunists! They'll gobble down berries, fruits, insects, and even snails to keep their bellies full, especially when the weather gets chilly. They're basically nature's all-you-can-eat buffet connoisseurs!\n",
+    "Name": "American Robin",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Spinus psaltria",
+    "Fun Fact": "Lesser Goldfinches are tiny acrobats of the bird world! They can often be seen hanging upside down from branches and seed heads while foraging for food, displaying their impressive agility and determination to reach the tastiest treats.\n",
+    "Name": "Lesser Goldfinch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Thermobia domestica",
+    "Fun Fact": "Firebrats are basically living time capsules! They've been around for over 300 million years, meaning they were scurrying around on Earth alongside the dinosaurs! Talk about ancient roommates!\n",
+    "Name": "Firebrat",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sayornis nigricans",
+    "Fun Fact": "Black Phoebes are so attached to their nesting sites, they've been known to build their mud nests on human-made structures like buildings and bridges! They even re-use the same nests for multiple broods, adding a fresh layer of mud each time, resulting in some pretty impressive, multi-layered homes.\n",
+    "Name": "Black Phoebe",
+    "Rarity": 1
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Elgaria multicarinata",
+    "Fun Fact": "Don't let their name fool you, Southern Alligator Lizards aren't related to alligators! They got their name because of their tough, plated scales and the way they sometimes thrash their tails when threatened, just like a little alligator!\n",
+    "Name": "Southern Alligator Lizard",
+    "Rarity": 1
+  },
+  {
+    "Type": "Millipede\n",
+    "Scientific Name": "Oxidus gracilis",
+    "Fun Fact": "Don't let the name fool you! While *Oxidus gracilis* is often called the greenhouse millipede, these tiny travelers are surprisingly adaptable and can be found hitchhiking around the world in potted plants, not just in greenhouses! They're like the world's tiniest, multi-legged tourists!\n",
+    "Name": "Greenhouse Millipede",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Trachymela sloanei",
+    "Fun Fact": "Don't let their flashy colors fool you! Sloane's Christmas Beetles might look like festive decorations, but these eucalyptus-loving insects can actually cause significant damage to eucalyptus plantations if their populations get out of control.\n",
+    "Name": "Australian Tortoise Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cryptoneossa triangula",
+    "Fun Fact": "Cryptoneossa triangula is a tiny ant species from Madagascar that's so secretive, it was only rediscovered in 2022 after not being seen for over 100 years!  Imagine being lost for over a century!\n",
+    "Name": "Corymbia psyllid",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Melozone crissalis",
+    "Fun Fact": "California Towhees are such homebodies that they rarely venture more than a few miles from where they were born, spending their entire lives in the same scrubby habitat! Talk about knowing your neighborhood!\n",
+    "Name": "California Towhee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Mimus polyglottos",
+    "Fun Fact": "Northern Mockingbirds are such talented mimics, they can learn and imitate over 200 different sounds, including other birds, insects, amphibians, and even mechanical noises like car alarms and squeaky doors! Talk about a noisy neighbor!\n",
+    "Name": "Northern Mockingbird",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Astur cooperii",
+    "Fun Fact": "Cooper's Hawks are known for their incredible agility in flight, often weaving through dense forests at high speeds! Their long tails act like rudders, allowing them to make sharp turns and snag unsuspecting birds right off branches. Talk about a feathered fighter pilot!\n",
+    "Name": "Cooper's Hawk",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Vireo huttoni",
+    "Fun Fact": "Despite their tiny size and inconspicuous olive-green plumage, Hutton's Vireos are surprisingly bold! They often forage actively in the same trees as larger birds like woodpeckers and nuthatches, seemingly unconcerned by their bigger neighbors. Talk about having the confidence of a tiny bird!\n",
+    "Name": "Hutton's Vireo",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Corvus corax",
+    "Fun Fact": "Ravens (Corvus corax) are super smart! They've been known to plan for the future, solve complex puzzles, and even mimic human speech better than some parrots. So, next time you see a raven, remember you might be dealing with a feathered genius!\n",
+    "Name": "Common Raven",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Deroceras reticulatum",
+    "Fun Fact": "Gray field slugs have a really quirky way of finding a mate - they dangle from a thread of mucus and entwine mid-air, exchanging sperm in a love swing! Talk about a unique dating app!\n",
+    "Name": "Milky Slug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Dryobates nuttallii",
+    "Fun Fact": "Even though the Nuttall's Woodpecker is a year-round resident of California and Baja California, they have been known to \"drum\" up a crowd outside of their usual range when resources are scarce! They'll aggressively defend their territory, even against larger woodpeckers, ensuring they get their share of tasty insects and nesting spots. Talk about a tough little bird!\n",
+    "Name": "Nuttall's Woodpecker",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ctenarytaina spatulata",
+    "Fun Fact": "*Ctenarytaina spatulata*, a type of psyllid (jumping plant louse), doesn't just munch on eucalyptus leaves! Its presence actually causes the eucalyptus leaves to develop these cool, cup-shaped galls, basically tiny leaf-houses they live inside and feast upon. Talk about a built-in buffet and protection!\n",
+    "Name": "Rose Gum Psyllid",
+    "Rarity": 5
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Oecobius navus",
+    "Fun Fact": "The Oecobius navus, also known as the wall spider, is a tiny but mighty dust-buster! This spider is a skilled hunter of small insects, and it has a very particular way of catching its prey. Once it's close enough, it'll quickly wrap its dinner up in silk using a technique called \"gumfoot entanglement.\"\n",
+    "Name": "Wall Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Arion hortensis",
+    "Fun Fact": "Garden slugs (Arion hortensis) have a sneaky defense mechanism! When threatened, they can secrete a thick, sticky mucus that tastes absolutely awful to predators, making them think twice about taking a bite! \n",
+    "Name": "Garden Arion",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Periplaneta americana",
+    "Fun Fact": "You might find American cockroaches in sewers and damp places, but did you know they're surprisingly good flyers?  When it's warm enough, they can actually take flight, sometimes covering a surprising distance to find a new home or tasty food source! Just another reason to keep your kitchen clean. 😉\n",
+    "Name": "American Cockroach",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Graphocephala atropunctata",
+    "Fun Fact": "Don't let their elegant blue-green sheen fool you!  Blue-Green Sharpshooters get their name honestly. They're called sharpshooters because they *literally* shoot out excess plant sap as a fine mist, a byproduct of their feeding habits. It's like a tiny, glistening sprinkler system powered by plant juice!\n",
+    "Name": "Blue-green Sharpshooter",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Melospiza melodia",
+    "Fun Fact": "Song Sparrows are like the musical chameleons of the bird world! Each male Song Sparrow can have a repertoire of up to 20 different songs, and the songs can vary dramatically from region to region, almost like local dialects.\n",
+    "Name": "Song Sparrow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Worm\n",
+    "Scientific Name": "Lumbricus terrestris",
+    "Fun Fact": "Earthworms like *Lumbricus terrestris* are basically living compost machines! They can eat their own weight in organic matter (like dead leaves) every single day, turning it into nutrient-rich soil that plants love! Talk about a win-win for the ecosystem!\n",
+    "Name": "Common Earthworm",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Junonia grisea",
+    "Fun Fact": "The Gray Buckeye (Junonia grisea) is a master of disguise! Its muted gray and brown coloring perfectly mimics dead leaves, providing excellent camouflage against predators.\n",
+    "Name": "Gray Buckeye",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Euura californica",
+    "Fun Fact": "Did you know that the *Euura californica*, a species of willow gall sawfly, can actually manipulate the growth of its host willow tree to create a cozy, protective gall around itself? It's like having a custom-built condo right in the middle of the branch!",
+    "Name": "Willow Apple Gall Sawfly",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Brotogeris chiriri",
+    "Fun Fact": "These little guys are like the chatterboxes of the parrot world! Yellow-chevroned Parakeets are known for being super vocal and can imitate human speech relatively well, making them popular (and sometimes noisy!) companions. They also have a special call they use to call to each other so when they are in flight they can easily find each other.\n",
+    "Name": "Yellow-chevroned Parakeet",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Chionaspis pinifoliae",
+    "Fun Fact": "These tiny critters look like white sprinkles stuck to pine needles, but they're actually armored insects sucking the sap out of your Christmas tree (or other pine trees)! A heavy infestation can make the needles turn yellow and even drop off.\n",
+    "Name": "pine needle scale",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Haemorhous purpureus",
+    "Fun Fact": "Despite its name, the Purple Finch isn't actually very purple! The males have a lovely raspberry-red hue, which can look a bit purplish in certain lighting, but it's more of a vibrant reddish-pink. So, they're kind of like a misnamed berry!\n",
+    "Name": "Purple Finch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Phoracantha recurva",
+    "Fun Fact": "Phoracantha recurva larvae are wood-boring pests that love eucalyptus! So much so, that they can accidentally be transported around the world in eucalyptus timber, causing damage to trees far from their native Australian home. Talk about a taste for adventure...and wood!\n",
+    "Name": "Lesser Eucalyptus Longhorn Beetle",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aleuroplatus coronata",
+    "Fun Fact": "*Aleuroplatus coronata*, a type of whitefly, gets its name from the crown-like fringe of waxy filaments that surround its pupal case! It's like they're tiny monarchs of the leaf, rocking a regal look even as they transform.\n",
+    "Name": "Crown Whitefly",
+    "Rarity": 5
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Elgaria multicarinata webbii",
+    "Fun Fact": "Don't let the name fool you, San Diego Alligator Lizards aren't closely related to alligators! They get their name from their tough, overlapping scales and elongated body that give them a somewhat alligator-like appearance. They're actually just really cool, well-armored members of the Anguidae lizard family!\n",
+    "Name": "San Diego Alligator Lizard",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Euborellia annulipes",
+    "Fun Fact": "Don't let the name fool you! While most earwigs are known for the pincers on their rear, the ringlegged earwig is a bit of a neat freak. These little guys use their cerci (those pincers) not just for defense, but also to meticulously groom themselves and their young! \n",
+    "Name": "Ring-legged Earwig",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cotinis mutabilis",
+    "Fun Fact": "Green Fig Beetles are like nature's tiny, buzzy lawnmowers! They often fly around in large groups, using their strong mandibles to chew on overripe fruits and even nectar-rich flowers, sometimes causing a bit of a party... and a bit of a mess!\n",
+    "Name": "Figeater Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Polistes exclamans",
+    "Fun Fact": "Polistes exclamans, also known as the exclamation point wasp, has a very unique way of starting their colonies! Instead of just one queen, you often find multiple queens cooperating to build a nest and raise the first batch of workers. It's like a wasp co-op until the social hierarchy settles, and one queen eventually takes the lead!\n",
+    "Name": "Guinea Paper Wasp",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Bipalium kewense",
+    "Fun Fact": "Don't try to slice and dice a *Bipalium kewense* to get rid of it! Each fragment can regenerate into a whole new worm, potentially turning one problem into many! Talk about a horror movie come to life!\n",
+    "Name": "Shovel-headed Garden Worm",
+    "Rarity": 2
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Caenoplana coerulea",
+    "Fun Fact": "The Caenoplana coerulea, or Blue Planarian, might look like a simple, slimy worm, but it's got a secret superpower: it can regenerate almost its entire body! Cut it into several pieces, and each piece can potentially grow into a brand new, fully functional Blue Planarian. Talk about a clean break!\n",
+    "Name": "Blue Garden Flatworm",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Zyginama erosa",
+    "Fun Fact": "*Zyginama erosa* is a tiny acrobat!  These leafhoppers are known for their incredible jumping abilities - they can leap dozens of times their own body length in an instant, allowing them to escape predators or quickly find a new tasty leaf to munch on!\n",
+    "Name": "Jassid\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Strymon melinus",
+    "Fun Fact": "Don't judge this butterfly by its dull name! The Gray Hairstreak is a bit of a foodie, with caterpillars that will munch on a HUGE variety of plants - over 100 different species! This picky-but-not-really diet allows them to thrive in lots of different habitats.\n",
+    "Name": "Gray Hairstreak",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hylephila phyleus",
+    "Fun Fact": "Did you know the Fiery Skipper butterfly is named for its energetic, darting flight and bright orange coloring, but some people swear it gets its \"fiery\" moniker from its love of landing on, you guessed it, HOT asphalt! They've been spotted basking on freshly paved roads, proving that even butterflies have a taste for the extreme (and potentially questionable) sunbathing spots.\n",
+    "Name": "Fiery Skipper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Sceloporus occidentalis",
+    "Fun Fact": "Western Fence Lizards are sometimes called \"Bluebellies\" because of the bright blue patches on their undersides! Interestingly, these blue bellies are especially vibrant in males, who use them to attract mates and ward off rivals.\n",
+    "Name": "Western Fence Lizard",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Jadera haematoloma",
+    "Fun Fact": "Red-shouldered bugs have a surprisingly picky palate! While they love snacking on seeds, especially those from goldenrain trees and soapberry trees, they **can't** actually digest solid food as nymphs. They have to use their straw-like mouthparts to suck out the juicy insides of the seeds!\n",
+    "Name": "Red-shouldered Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Ardea herodias",
+    "Fun Fact": "Great Blue Herons are masters of patience! They can stand perfectly still for incredibly long periods of time, sometimes over 20 minutes, waiting for the perfect moment to strike at unsuspecting fish. It's like they're playing the world's slowest (and most successful) game of \"red light, green light\" with their dinner!\n",
+    "Name": "Great Blue Heron",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Passer domesticus",
+    "Fun Fact": "Despite being one of the most common birds on Earth, the House Sparrow is actually an *invasive species* in many parts of the world! They originated in Eurasia and North Africa and hitched rides with humans, colonizing new continents and sometimes outcompeting native bird species. So, that friendly chirp you hear might actually be a little world-changer!\n",
+    "Name": "House Sparrow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Otospermophilus beecheyi",
+    "Fun Fact": "California ground squirrels are notorious snake charmers! They can actually pump their tails full of blood, making them appear larger and more intimidating to rattlesnakes. They also fling sand and pebbles at snakes to harass them!\n",
+    "Name": "California Ground Squirrel",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Petrochelidon pyrrhonota",
+    "Fun Fact": "Cliff Swallows are master architects! They build gourd-shaped mud nests, often in huge colonies that can house thousands of birds. Each swallow brings only a beakful of mud at a time, making thousands of trips to build a single nest - talk about dedication!\n",
+    "Name": "Cliff Swallow",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lygaeus kalmii",
+    "Fun Fact": "Did you know that small milkweed bugs like *Lygaeus kalmii* are like tiny alchemists? They can safely munch on toxic milkweed seeds and store the poisonous chemicals (cardenolides) in their own bodies! This makes *them* taste bad to predators, giving them a bitter defense against being eaten. Talk about turning poison into a superpower!\n",
+    "Name": "Small Milkweed Bug",
+    "Rarity": 2
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Plestiodon skiltonianus",
+    "Fun Fact": "These skinks are masters of disguise! Young Skilton's Skinks have bright blue tails that they can detach to distract predators, giving them a chance to escape. But don't worry, the tail grows back, though it might not be as vibrant the second time around!\n",
+    "Name": "Western Skink",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lon melane",
+    "Fun Fact": "Lon Melane chicks (Melanesian Megapodes) emerge from their underground nests fully feathered and ready to fly! They're completely independent from the moment they hatch, a true \"instant adult\" in the bird world!\n",
+    "Name": "Umber Skipper",
+    "Rarity": 5
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Planorbella duryi",
+    "Fun Fact": "Don't let their small size fool you! *Planorbella duryi*, the Florida Red Ramshorn snail, is a fantastic algae eater and can actually help keep your aquarium clean. They're basically tiny, shell-clad janitors with a penchant for leftovers!\n",
+    "Name": "Seminole Ramshorn",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Xylocopa sonorina",
+    "Fun Fact": "Valley Carpenter Bees are nature's powerhouses!  They might look intimidating with their large size, but male carpenter bees can't sting!  However, the females can and will sting if they feel threatened. They're often seen buzzing around eaves and wooden structures as they bore perfectly round tunnels to build their cozy little nests - talk about home improvement experts!\n",
+    "Name": "Valley Carpenter Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Phidippus adumbratus",
+    "Fun Fact": "*Phidippus adumbratus* might be a master of disguise in the spider world! While some jumping spiders sport vibrant colors, this species prefers to blend in with the bark and foliage of its habitat, using camouflage to ambush unsuspecting insects! Talk about playing hide-and-seek like a pro!\n",
+    "Name": "No commonly recognized name exists for *Phidippus adumbratus*.\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arthropod\n",
+    "Scientific Name": "Entomobrya atrocincta",
+    "Fun Fact": "Don't let their tiny size fool you! *Entomobrya atrocincta* springtails are Olympic-level jumpers of the insect world! They have a special forked appendage called a furcula that's held under tension. When released, it catapults them up to 100 times their own body length in a single bound to escape predators!\n",
+    "Name": "Dimorphic Springtail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Argia vivida",
+    "Fun Fact": "This dazzling damselfly is a desert dweller! *Argia vivida* thrives near hot springs, streams, and other warm aquatic habitats in the arid landscapes of western North America, making them a true oasis specialist. They're like the cool, calm, and collected fashionistas of the dragonfly world, rocking bright colors even in the harshest environments.\n",
+    "Name": "Vivid Dancer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Ambigolimax valentianus",
+    "Fun Fact": "This seemingly ordinary slug is a master of disguise! The Valencia slug is a champion hitchhiker, and has spread across the globe thanks to its ability to blend in and travel unnoticed in plant pots and produce shipments. So, the next time you buy a houseplant, you might just be giving a Valencia slug a free trip to a new home!\n",
+    "Name": "Striped Greenhouse Slug",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cryptolaemus montrouzieri",
+    "Fun Fact": "Don't let the name fool you! While the Mealybug Destroyer adults *do* snack on mealybugs, their larvae are the real ravenous powerhouses, sometimes consuming so many that they appear covered in a fuzzy, white disguise mimicking the mealybugs themselves! This clever camouflage helps them avoid predators and blend in with their lunch.\n",
+    "Name": "Mealybug Destroyer",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Coccinella septempunctata",
+    "Fun Fact": "Don't judge a ladybug by its spots! The number of spots on a seven-spot ladybug doesn't actually tell you its age.  They keep the same seven spots throughout their entire adult lives! The spots are more like permanent fashion statements than a ladybug birthday counter.\n",
+    "Name": "Seven-spotted Lady Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhinocyllus conicus",
+    "Fun Fact": "This weevil is a dedicated eater of thistles, specifically the seed heads! So much so, that it's been introduced in several countries (including the US, Canada, and Australia) as a biological control agent to help manage invasive thistle populations. Talk about a tiny, thistle-busting superhero!\n",
+    "Name": "Nodding Thistle Receptacle Weevil",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Erynnis tristis",
+    "Fun Fact": "The Erynnis tristis, also known as the Mournful Duskywing, *isn't always so mournful!* While its name and drab coloring suggest a gloomy disposition, this little butterfly is actually quite active, flitting about vigorously in sunny areas to find nectar and mates.\n",
+    "Name": "Mournful Duskywing",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hippodamia convergens",
+    "Fun Fact": "Convergent Lady Beetles are migratory! In the fall, they gather in huge groups, sometimes numbering in the millions, and fly to higher elevations to overwinter. Talk about a ladybug party!\n",
+    "Name": "Convergent Lady Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Sylvilagus audubonii",
+    "Fun Fact": "Desert Cottontails are like tiny, furry ninjas when it comes to water! Because they live in dry environments, they rarely drink water directly. Instead, they get most of the moisture they need from the plants they eat! \n",
+    "Name": "Desert Cottontail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Icterus cucullatus",
+    "Fun Fact": "Hooded Orioles are masterful weavers! The female Hooded Oriole meticulously builds her nest, often using strong plant fibers and even horsehair, and cleverly hangs it like a delicate basket from palm fronds or thin branches, sometimes even attaching it to telephone wires! Talk about creative real estate!\n",
+    "Name": "Hooded Oriole",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Libellula croceipennis",
+    "Fun Fact": "The male Flame Skimmer dragonfly is like a tiny, fiery sunset zipping through the air! They're known for their vibrant, bright orange-red bodies, making them one of the most visually striking dragonflies you'll ever see.  That intense color helps them attract mates and defend their territory, proving that a little \"flame\" can go a long way in the dragonfly world!\n",
+    "Name": "Neon Skimmer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Icaricia acmon",
+    "Fun Fact": "The Acmon Blue butterfly has a super-specific diet as a caterpillar! It primarily feeds on various plants in the buckwheat family, which means its survival is closely tied to the health of those plant populations. Talk about a picky eater! \n",
+    "Name": "Acmon Blue",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Phaneroptera nana",
+    "Fun Fact": "*Phaneroptera nana*, also known as the Southern Sickle Bush-cricket, is a master of camouflage! These tiny green insects blend in so well with leaves that you'll likely walk right past them without ever knowing they're there. They're the ultimate hide-and-seek champions of the insect world!\n",
+    "Name": "Mediterranean Katydid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dryocosmus dubiosus",
+    "Fun Fact": "*Dryocosmus dubiosus*, a gall wasp, is a bit of a shapeshifter when it comes to its galls! Unlike many gall wasps that produce consistent, recognizable galls, *Dryocosmus dubiosus* can create a variety of gall shapes and sizes on oak trees, making it a challenge to identify based on the gall alone! They can look like little fuzzy balls, knobby growths, or even just strange bumps, keeping entomologists on their toes!\n",
+    "Name": "Two-horned Gall Wasp",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Callirhytis quercussuttoni",
+    "Fun Fact": "This tiny wasp creates golf ball-sized galls on oak trees, which serve as a cozy home and buffet for its developing larvae! While they might look like weird tree tumors, these galls are actually a carefully crafted nursery, induced by the wasp's chemicals to provide the perfect environment for its young.\n",
+    "Name": "Gouty Stem Gall Wasp",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dryocosmus minusculus",
+    "Fun Fact": "Even though the Scrub Oak Gall Wasp, *Dryocosmus minusculus*, creates striking, fuzzy galls on oak leaves, you might not even notice them for most of the year! That's because the galls are tiny, usually just a few millimeters across, and often hidden on the undersides of leaves. So, keep your eyes peeled for these minuscule marvels next time you're under an oak tree!\n",
+    "Name": "Pumpkin Gall Wasp",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Syritta pipiens",
+    "Fun Fact": "Syritta pipiens larvae are surprisingly helpful recyclers! They feed on decaying plant matter and manure, acting like tiny, buzzing composters that help break down organic waste and enrich the soil. Think of them as nature's miniature garbage collectors with wings!\n",
+    "Name": "Thick-legged Hover Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eupeodes volucris",
+    "Fun Fact": "*Eupeodes volucris* is a double-duty delight! While the adult flies sip nectar and pollinate flowers like miniature bees, their larvae are voracious aphid eaters, making them a tiny but mighty natural pest control squad in your garden!\n",
+    "Name": "Large-tailed Aphideater",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Scaeva affinis",
+    "Fun Fact": "Did you know that the Scaeva affinis hoverfly is a master aphid assassin? Its larvae can devour dozens of aphids *per day*, making them tiny but mighty gardeners' helpers!\n",
+    "Name": "White-bowed Smoothwing",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Syrphus opinator",
+    "Fun Fact": "Syrphus opinator hoverflies are like miniature clean-up crews for your garden! Their larvae are voracious predators of aphids, helping to control these pesky pests without the need for harmful chemicals. So, a sighting of this hoverfly is a sign your garden has a natural aphid assassin on the prowl!\n",
+    "Name": "Black-margined Flower Fly",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sphex ichneumoneus",
+    "Fun Fact": "The Great Golden Digger Wasp is a real-life surgeon! This wasp paralyzes katydids (grasshopper relatives) with a precise sting, drags them back to its burrow, and uses them as living, fresh food for its developing larvae. Talk about delivering the goods! \n",
+    "Name": "Great Golden Digger Wasp",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Leptotes marina",
+    "Fun Fact": "The Marine Blue butterfly might be small, but it's a bit of a drama queen! Its caterpillars can be cannibalistic, happily munching on other Marine Blue caterpillars if food is scarce. Talk about a cutthroat world!\n",
+    "Name": "Marine Blue",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Manduca sexta",
+    "Fun Fact": "Think these caterpillars just munch on tobacco? Think again! While they *love* tobacco and tomatoes (hence their nickname, \"tomato hornworm\"), *Manduca sexta* caterpillars are actually used as models in scientific research, helping us understand everything from insect physiology to immunology and even neuroscience! Talk about a versatile veggie-lover!\n",
+    "Name": "Carolina Sphinx",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Graminella sonora",
+    "Fun Fact": "Graminella sonora might be tiny, but they're real gourmands! These little leafhoppers are picky eaters, specializing in sucking sap from specific types of grasses, making them like the food critics of the grassland world.\n",
+    "Name": "Lesser Lawn Leafhopper",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Uroleucon achilleae",
+    "Fun Fact": "Don't let their name fool you! *Uroleucon achilleae* aphids aren't just achy after a long day. They're super picky eaters, mostly feasting on the sap of plants in the *Achillea* genus, better known as Yarrow!  So, if you see a cluster of these little guys on your Yarrow, you know they're having a five-star meal!\n",
+    "Name": "Large Red Yarrow Aphid",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bombus sonorus",
+    "Fun Fact": "Did you know that the *Bombus sonorus*, a type of bumble bee, is a real \"buzz\" builder? They create massive colonies that can house over 2,000 workers, making them one of the largest bumble bee societies in North America!\n",
+    "Name": "Sonoran Bumble Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ceratina arizonensis",
+    "Fun Fact": "Did you know that *Ceratina arizonensis*, also known as a small carpenter bee, sometimes nests in the dried stems of ocotillo plants? These tiny bees essentially create their own little \"bee apartments\" inside the plant!\n",
+    "Name": "Arizona Small carpenter",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Halyomorpha halys",
+    "Fun Fact": "Don't judge a bug by its stripes! The Brown Marmorated Stink Bug has distinctive black and white bands on its antennae and edges of its abdomen, but these colorful markings haven't exactly earned it any popularity. In fact, it's a major agricultural pest known for feasting on a wide variety of fruits, vegetables, and even ornamental plants, causing significant damage to crops!\n",
+    "Name": "Brown Marmorated Stink Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Copestylum satur",
+    "Fun Fact": "Even though it's called the Cactus Fly, *Copestylum satur* has a bit of a sweet tooth! While its larvae develop inside rotting cacti, the adult flies are frequently seen sipping nectar from flowers, making them pollinators in their own right!\n",
+    "Name": "Spotted-wing Bromeliad Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Piranga ludoviciana",
+    "Fun Fact": "Western Tanagers are like feathered bartenders! They've been observed following sapsuckers around and drinking the sap from the holes they drill. Talk about a sweet gig! \n",
+    "Name": "Western Tanager",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sitona hispidulus",
+    "Fun Fact": "Don't let its small size fool you! The Clover Root Weevil (*Sitona hispidulus*) is a sneaky traveler. This tiny weevil is a major hitchhiker, often dispersed over long distances by clinging to vehicles, machinery, and even animal fur! So, next time you see a tiny beetle, it might just be on an epic adventure!\n",
+    "Name": "Clover Weevil",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sitta carolinensis",
+    "Fun Fact": "White-breasted Nuthatches are head-down acrobats! They're one of the few North American birds that regularly climb down trees headfirst. This gives them a unique perspective on finding hidden insects and seeds that other birds might miss!\n",
+    "Name": "White-breasted Nuthatch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Didelphis virginiana",
+    "Fun Fact": "Opossums have thumbs... on their back feet! These opposable thumbs (actually called a hallux) help them grip branches and climb like furry little acrobats. So, while they might look a bit clumsy on the ground, they're surprisingly agile in the trees!\n",
+    "Name": "Virginia Opossum",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Libellula saturata",
+    "Fun Fact": "Flame Skimmers are like little sun-powered aerial acrobats! Male Flame Skimmers get their vibrant red color from pigments called carotenoids in their diet. They spend their days basking in the sun to intensify that fiery hue, showing off their \"flaming\" good looks to attract a mate!\n",
+    "Name": "Flame Skimmer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aquarius remigis",
+    "Fun Fact": "Water striders like *Aquarius remigis* are like tiny, aquatic acrobats! They don't actually *walk* on water; they use their specialized, waxy legs to distribute their weight and exploit the water's surface tension, allowing them to *skate* across the water like it's an invisible trampoline!\n",
+    "Name": "North American Common Water Strider",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Melanerpes formicivorus",
+    "Fun Fact": "Acorn Woodpeckers are like the ultimate preppers! They drill thousands of individual holes in \"granary trees\" to store acorns for the winter. These trees, often dead or dying, can become so packed with acorns they look like bizarre wooden beehives!\n",
+    "Name": "Acorn Woodpecker",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Sylvilagus bachmani",
+    "Fun Fact": "Brush rabbits are quite the homebodies! Unlike many rabbits that roam widely, brush rabbits usually stay within the same few acres their entire lives. Talk about knowing your neighborhood!\n",
+    "Name": "Brush Rabbit",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Halictus tripartitus",
+    "Fun Fact": "Halictus tripartitus is a communal sweat bee, which means a few related females will band together to share a nest! One becomes the queen, laying all the eggs, while her sisters help gather pollen and nectar for the developing larvae - it's like a busy, buzzing cooperative!\n",
+    "Name": "Tripartite Sweat Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sphex lucae",
+    "Fun Fact": "The Golden Hunter Wasp is a meticulous hunter! It paralyzes grasshoppers with a precise sting, then drags them back to its burrow, sometimes over considerable distances. But here's the funny part: if the wasp gets distracted and leaves the grasshopper unattended, it will meticulously re-inspect the grasshopper and the burrow entrance *all over again* before dragging the prey inside, as if forgetting it already did it! Talk about a creature of habit!\n",
+    "Name": "California digger wasp\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Troglodytes aedon",
+    "Fun Fact": "Don't be fooled by its small size! The House Wren is a real estate mogul of the bird world. Male wrens will build multiple incomplete nests in their territory, hoping a female will choose one to finish. Think of it as the avian version of a spec home!\n",
+    "Name": "Northern House Wren",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Laemostenus complanatus",
+    "Fun Fact": "Don't judge this beetle by its messy habits! The *Laemostenus complanatus* loves hanging out in cellars and caves, feasting on the carrion and waste products of other creatures. While it might sound gross, this cleanup crew plays a vital role in keeping these dark, damp environments nice and tidy!\n",
+    "Name": "Cosmopolitan Ground Beetle",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Oxyopes salticus",
+    "Fun Fact": "Forget webs, *Oxyopes salticus* is a spider ninja! This little spider doesn't spin a web to catch its prey. Instead, it relies on its amazing eyesight and lightning-fast speed to stalk and pounce on unsuspecting insects, often in sunny fields and gardens!\n",
+    "Name": "Striped Lynx Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Dryobates pubescens",
+    "Fun Fact": "Don't let their small size fool you! Downy Woodpeckers are North America's smallest woodpecker species, but they're surprisingly resourceful. They can often be found gleaning insects from weed stems and goldenrod galls in the winter, a behavior that larger woodpeckers tend to overlook. This allows them to thrive in a variety of habitats and outcompete larger birds for limited food sources!\n",
+    "Name": "Downy Woodpecker",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Phainopepla nitens",
+    "Fun Fact": "The Phainopepla has a sweet tooth... or rather, a mistletoe tooth! These silky flycatchers are almost entirely dependent on desert mistletoe berries for food, and will even nest in mistletoe clumps for protection. In fact, their movements are often dictated by the availability of this parasitic plant, making them dedicated \"mistletoe farmers\"!\n",
+    "Name": "Phainopepla",
+    "Rarity": 2
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "A group of cats is called a clowder! So next time you see a bunch of furry felines hanging out, you can impress your friends by saying you saw a clowder of cats!\n",
+    "Name": "Domestic Cat",
+    "Rarity": 1
+  },
+  {
+    "Type": "Crustacean\n",
+    "Scientific Name": "Arcitalitrus sylvaticus",
+    "Fun Fact": "Did you know that Lawn Shrimp aren't actually shrimp? They're land-dwelling crustaceans that breathe through modified gills, making them more closely related to sandhoppers than seafood!**\n",
+    "Name": "Lawn shrimp\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthomyia ochripes",
+    "Fun Fact": "Anthomyia ochripes flies are known for their love of asparagus! Their larvae can be pests, feeding on asparagus spears and causing damage to crops. So, the next time you're enjoying a tasty plate of asparagus, remember there's a tiny fly out there that shares your enthusiasm!\n",
+    "Name": "Bean seed fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Steatoda grossa",
+    "Fun Fact": "Don't let the cupboard spider's looks fool you! While they can sometimes be mistaken for the deadly black widow (hence their nickname \"false widow\"), their bite is usually no worse than a bee sting. So, while they might give you a fright, they're more likely to be harmless roommates than a serious threat!\n",
+    "Name": "Cupboard Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Euwallacea fornicatus",
+    "Fun Fact": "Talk about picky eaters! *Euwallacea fornicatus* doesn't actually *eat* the wood it bores into. Instead, this tiny beetle cultivates a special fungus garden inside the tree, and it's that fungus the beetle and its larvae munch on! Think of it as a farmer, not a lumberjack!\n",
+    "Name": "Polyphagous Shot Hole Borer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Virus\n",
+    "Scientific Name": "Iridovirus armadillidium-i",
+    "Fun Fact": "*Iridovirus armadillidium-i* turns its pill bug (roly-poly) host a vibrant, iridescent blue! While beautiful, this color change is a sign the poor bug is infected with the virus, which ultimately leads to its demise. So, next time you see a shimmering blue pill bug, admire its unique look, but know it's a little under the weather!\n",
+    "Name": "Invertebrate iridescent virus 31",
+    "Rarity": 3
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Oryctolagus cuniculus domesticus",
+    "Fun Fact": "Did you know a group of bunnies is called a fluffle?  Imagine a fluffle of fluffy friends hopping around – adorable!\n",
+    "Name": "Domestic Rabbit",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Oryctolagus cuniculus",
+    "Fun Fact": "European rabbits are master architects! They live in underground burrow systems called warrens, which can be incredibly complex with multiple entrances, tunnels, and chambers, sometimes housing hundreds of rabbits!\n",
+    "Name": "European Rabbit",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gryllodes sigillatus",
+    "Fun Fact": "Banded crickets are basically the rockstars of the cricket world! They're super adaptable, breed like crazy, and are often raised as feeder insects, but that means they've hitched rides around the globe and are now found on almost every continent, making them one of the most widespread cricket species on Earth. Talk about a world tour!\n",
+    "Name": "Tropical House Cricket",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Euphagus cyanocephalus",
+    "Fun Fact": "Brewer's Blackbirds are notorious for \"cowbird dodging\"! They've learned to recognize Brown-headed Cowbird eggs (a species that lays its eggs in other birds' nests) and will often eject them from their own nests, sometimes even abandoning the nest altogether if the infestation is too heavy. Talk about avoiding unwanted guests!\n",
+    "Name": "Brewer's Blackbird",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthophora urbana",
+    "Fun Fact": "Urban digger bees are real city slickers! They often build their nests in old, crumbling walls and fences right in the heart of urban areas, proving you don't need a sprawling garden to be a happy bee!\n",
+    "Name": "Urbane Digger Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Crustacean\n",
+    "Scientific Name": "Procambarus clarkii",
+    "Fun Fact": "Red swamp crayfish are masters of disguise (sort of!). They can actually change the shade of their red coloring to better blend in with their environment, making them harder for predators to spot and giving them a sneaky edge when hunting! So, a crayfish you see in a muddy swamp might be a slightly different red than one you spot in a clear stream.\n",
+    "Name": "Red Swamp Crayfish",
+    "Rarity": 1
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Sceloporus occidentalis longipes",
+    "Fun Fact": "Sierra Fence Lizards are like tiny, sun-powered DJs! They soak up the sun's rays to get their energy up, then flash their bright blue bellies to attract a mate or warn off rivals. Talk about a flashy way to start a party!\n",
+    "Name": "Great Basin Fence Lizard",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Physiphora alceae",
+    "Fun Fact": "*Physiphora alceae* (the Sardinian Sun Fly) might be mistaken for a flashy dancer at a bug rave! These flies have iridescent bodies that shimmer with a metallic sheen, and they're known for the males' elaborate leg-waving displays performed to attract females. Talk about putting on a show!\n",
+    "Name": "Picture-winged fly\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Brachymesia furcata",
+    "Fun Fact": "Red-tailed Pennant dragonflies are like nature's tiny acrobats! The males perform a dazzling mating display, hovering and flapping their wings to show off their vibrant red tails and attract a mate. It's like a tiny, mid-air dance competition!\n",
+    "Name": "Red-tailed Pennant",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Papilio rutulus",
+    "Fun Fact": "The Western Tiger Swallowtail (Papilio rutulus) gets its \"tiger\" name from its bold black stripes on bright yellow wings, but did you know those stripes are actually unique to each individual butterfly, just like human fingerprints!\n",
+    "Name": "Western Tiger Swallowtail",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Polistes dominula",
+    "Fun Fact": "These wasps are real social butterflies (or, well, social wasps)! They're super tolerant of new members joining their colony, meaning you might find multiple queens working together in a single nest! It's like a wasp co-op!\n",
+    "Name": "European Paper Wasp",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Propsocus pulchripennis",
+    "Fun Fact": "Don't let their leaf-like appearance fool you! While Harlequin Katydids, *Propsocus pulchripennis*, are masters of camouflage, perfectly blending in with foliage, the males are known to attract mates by *drumming* on leaves with their hind legs!  It's like a tiny, leafy drummer in the rainforest!\n",
+    "Name": "Lace-winged Bug\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Ray-finned fish\n",
+    "Scientific Name": "Gambusia affinis",
+    "Fun Fact": "Mosquitofish are living mosquito-zapping machines! They're so good at gobbling up mosquito larvae that they've been introduced all over the world to control mosquito populations. However, their aggressive appetites can sometimes cause problems for native fish and other aquatic critters, so it's a bit of a \"be careful what you wish for\" situation!\n",
+    "Name": "Western Mosquitofish",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Fazia micrura",
+    "Fun Fact": "*Fazia micrura* snails are like tiny, underwater vacuum cleaners! They graze on algae and detritus on the seafloor, helping to keep their ecosystem clean and tidy, one tiny bite at a time.\n",
+    "Name": "Diamond Spottail",
+    "Rarity": 5
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Vireo gilvus",
+    "Fun Fact": "The Warbling Vireo is such a devoted singer that it often sings while foraging for food! Talk about multi-tasking - grabbing a tasty insect and belting out a tune at the same time!\n",
+    "Name": "Warbling Vireo",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Terastia meticulosalis",
+    "Fun Fact": "The frass (caterpillar poop) of the Terastia meticulosalis caterpillar is ejected with enough force to propel them away from the plant, helping them avoid predators!\n",
+    "Name": "Erythrina borer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eristalinus taeniops",
+    "Fun Fact": "The Eristalinus taeniops, also known as the onion fly, has striking eyes that resemble tiger stripes, helping them navigate and find food sources like nectar and pollen.\n",
+    "Name": "Stripe-eyed Lagoon Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Phoebis sennae",
+    "Fun Fact": "Cloudless Sulphur butterflies can sometimes be seen gathering in large groups near puddles to sip up minerals and salts.\n",
+    "Name": "Cloudless Sulphur",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Stagmomantis limbata",
+    "Fun Fact": "The Stagmomantis limbata, or Bordered Mantis, sometimes sways back and forth to mimic a leaf blowing in the wind, helping it blend in with its surroundings.\n",
+    "Name": "Arizona Mantis",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Mallophora fautrix",
+    "Fun Fact": "This robber fly mimics bumblebees, likely to trick prey into a false sense of security or to deter predators.\n",
+    "Name": "Bee killer\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Paragus haemorrhous",
+    "Fun Fact": "Female *Paragus haemorrhous* hoverflies are known to lay their eggs near aphid colonies so that the larvae have an immediate food source upon hatching.\n",
+    "Name": "Common Grass Skimmer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Scudderia mexicana",
+    "Fun Fact": "The Mexican Bush Katydid, *Scudderia mexicana*, can change its color to better blend in with its surroundings, making it a master of camouflage!\n",
+    "Name": "Mexican Bush Katydid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Passerella iliaca",
+    "Fun Fact": "Fox Sparrows have different song dialects depending on their geographic location, almost like human languages.\n",
+    "Name": "Fox Sparrow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Catharus guttatus",
+    "Fun Fact": "The Hermit Thrush is known for its haunting, flute-like song, often described as one of the most beautiful bird songs in North America.\n",
+    "Name": "Hermit Thrush",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cerceris sextoides",
+    "Fun Fact": "Cerceris sextoides wasps paralyze their prey, usually beetles, and store them in underground nests as food for their developing larvae.\n",
+    "Name": "Weevil Wasp\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Mythimna unipuncta",
+    "Fun Fact": "The Mythimna unipuncta, or armyworm, can travel long distances—sometimes hundreds of miles—in large swarms, devouring crops along the way!\n",
+    "Name": "White-speck Moth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Ray-finned fish\n",
+    "Scientific Name": "Cyprinus carpio",
+    "Fun Fact": "Common carp can jump out of the water to dislodge parasites or gulp air.\n",
+    "Name": "European Carp",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Condylostylus longicornis",
+    "Fun Fact": "Male *Condylostylus longicornis* flies use their extravagantly ornamented legs to attract females, performing elaborate \"leg-waving\" displays during courtship.\n",
+    "Name": "Long-legged Fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Vespula pensylvanica",
+    "Fun Fact": "Western yellowjackets can be attracted to hummingbird feeders to steal the sugary nectar!\n",
+    "Name": "Western Yellowjacket",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Clogmia albipunctata",
+    "Fun Fact": "Clogmia albipunctata, also known as the drain fly, can survive in low-oxygen environments and even in septic tanks!\n",
+    "Name": "Bathroom Moth Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Spizella passerina",
+    "Fun Fact": "Chipping Sparrows use horsehair and other fine materials to line their nests, making them exceptionally soft and cozy for their chicks!\n",
+    "Name": "Chipping Sparrow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Accipiter striatus",
+    "Fun Fact": "Sharp-shinned Hawks are agile fliers that can navigate dense forests with ease, sometimes even catching songbirds right out of mid-air!\n",
+    "Name": "Sharp-shinned Hawk",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Calathus ruficollis",
+    "Fun Fact": "Calathus ruficollis beetles are skilled climbers and can often be found scaling vegetation in search of prey.\n",
+    "Name": "Long-necked Ground Beetle\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sympetrum corruptum",
+    "Fun Fact": "The Spotted Amberwing dragonfly, *Sympetrum corruptum*, migrates long distances, sometimes forming huge swarms that can be mistaken for smoke!\n",
+    "Name": "Variegated Meadowhawk",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Phidippus johnsoni",
+    "Fun Fact": "Phidippus johnsoni spiders have iridescent chelicerae (mouthparts) that can shimmer with rainbow colors!\n",
+    "Name": "Johnson's Jumping Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ozophora occidentalis",
+    "Fun Fact": "Ozophora occidentalis, a type of stink bug, can release a foul odor as a defense mechanism that smells strongly of cilantro!\n",
+    "Name": "Big-eyed bug\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eumenes crucifera",
+    "Fun Fact": "Female Eumenes crucifera wasps meticulously construct tiny mud pots as nurseries for their larvae, provisioning them with paralyzed caterpillars as a living food source.\n",
+    "Name": "Cross Potter Wasp",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dryadaula terpsichorella",
+    "Fun Fact": "The Dryadaula terpsichorella moth has larvae that are known to feed on the fur and feathers of dead animals, making them nature's tiny recyclers.\n",
+    "Name": "Hawaiian Dancing Moth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Mexigonus minutus",
+    "Fun Fact": "Mexigonus minutus, a tiny jumping spider, is so small that several could comfortably sit on the head of a pin!\n",
+    "Name": "Leaf litter spider\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Procyon lotor",
+    "Fun Fact": "Raccoons are known for their intelligence and have been shown to be able to remember solutions to problems for up to three years.\n",
+    "Name": "Common Raccoon",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Erynnis funeralis",
+    "Fun Fact": "Mournful duskywings get their name from their dark color, reminiscent of mourning attire, but they are actually quite lively fliers.\n",
+    "Name": "Funereal Duskywing",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sayornis saya",
+    "Fun Fact": "Say's Phoebes sometimes use the nests of other birds, like Cliff Swallows, rather than building their own.\n",
+    "Name": "Say's Phoebe",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Geothlypis trichas",
+    "Fun Fact": "The common yellowthroat is known for the male's distinctive black mask and the loud \"witchety-witchety-witchety\" song he uses to attract a mate.\n",
+    "Name": "Common Yellowthroat",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Thaumastocoris peregrinus",
+    "Fun Fact": "The bronze bug, *Thaumastocoris peregrinus*, can cause significant damage to eucalyptus trees by sucking sap from the leaves, leading to reduced growth and even tree death.\n",
+    "Name": "Bronze bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Passerina amoena",
+    "Fun Fact": "The Lazuli Bunting's song is learned from its neighbors, creating distinct regional dialects.\n",
+    "Name": "Lazuli Bunting",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Closterotomus norwegicus",
+    "Fun Fact": "The potato capsid, *Closterotomus norwegicus*, can cause significant damage to potato crops by feeding on the leaves, but it's also been found to prey on aphids and other small insects, making it a beneficial predator in some situations.\n",
+    "Name": "Potato Mirid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Leiothlypis ruficapilla",
+    "Fun Fact": "Nashville Warblers can raise their crest feathers to display a bright orange patch on the top of their heads.\n",
+    "Name": "Nashville Warbler",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Acmaeodera prorsa",
+    "Fun Fact": "Acmaeodera prorsa beetles are known for their iridescent colors, which come from the unique microstructure of their exoskeletons that reflect light in different ways.\n",
+    "Name": "Cactus borer\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Dysdera crocata",
+    "Fun Fact": "The woodlouse spider, *Dysdera crocata*, has fangs so large and powerful, they're specifically designed to pierce the tough exoskeleton of its favorite prey: woodlice!\n",
+    "Name": "Woodlouse Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cerceris convergens",
+    "Fun Fact": "Cerceris convergens wasps provision their nests with paralyzed weevils, sometimes choosing weevils already parasitized by other insects!\n",
+    "Name": "Weevil Wasp\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthophora californica",
+    "Fun Fact": "The California Anthophora bee creates a waterproof nest by lining the inside of its burrow with a self-secreted, cellophane-like substance.\n",
+    "Name": "California Digger Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Mulsantina picta",
+    "Fun Fact": "The Mulsantina picta, a type of ladybug, gets its scientific name \"picta\" from the Latin word for \"painted,\" referring to its variable and colorful patterns.\n",
+    "Name": "Painted Ladybird",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Anas platyrhynchos",
+    "Fun Fact": "Mallard ducks can sleep with one eye open and half of their brain active!\n",
+    "Name": "Mallard",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cupido amyntula",
+    "Fun Fact": "The Damon Blue butterfly (Cupido amyntula) caterpillars are sometimes \"guarded\" by ants who protect them from predators in exchange for a sugary honeydew the caterpillars produce.\n",
+    "Name": "Western Tailed-Blue",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Colonus hesperus",
+    "Fun Fact": "The jumping spider *Colonus hesperus* has iridescent scales that shimmer in the sunlight, possibly used for attracting mates or camouflage.\n",
+    "Name": "Acorn ant\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Empidonax difficilis",
+    "Fun Fact": "The Pacific-slope Flycatcher often builds its nest in unusual places, like under bridges or in sheds!\n",
+    "Name": "Western Flycatcher",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sceliphron caementarium",
+    "Fun Fact": "Mud dauber wasps often reuse old nests of other mud daubers, or even their own previous nests, adding new cells as needed.\n",
+    "Name": "Yellow-legged Mud-dauber Wasp",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Oinophila v-flava",
+    "Fun Fact": "The larva of the Oinophila v-flava moth is sometimes called the \"cellar moth\" because it is often found feeding on decaying organic matter in cellars and other dark, damp places.\n",
+    "Name": "Yellow V Moth",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Larus occidentalis",
+    "Fun Fact": "Western Gulls have individual \"voices\" that allow them to recognize their chicks and mates!\n",
+    "Name": "Western Gull",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Neoscona oaxacensis",
+    "Fun Fact": "The Neoscona oaxacensis spider can change its color to better match the flower it's sitting on!\n",
+    "Name": "Western Spotted Orbweaver",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Brochymena quadripustulata",
+    "Fun Fact": "The four spots on a Brochymena quadripustulata's back actually help it blend in with bird droppings, providing excellent camouflage!\n",
+    "Name": "Four-humped Stink Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eupteryx decemnotata",
+    "Fun Fact": "The tiny Eupteryx decemnotata, a type of leafhopper, uses vibrations to communicate with potential mates, sending love songs through the plants they call home.\n",
+    "Name": "Ligurian Leafhopper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bagrada hilaris",
+    "Fun Fact": "Bagrada hilaris, also known as the painted bug, can rapidly develop resistance to insecticides, making them a challenging pest to control in agricultural settings.\n",
+    "Name": "Bagrada Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Trimerotropis fontana",
+    "Fun Fact": "The Fontana grasshopper, *Trimerotropis fontana*, can change color to better camouflage with its environment, going from gray to reddish-brown depending on the soil!\n",
+    "Name": "Fontana Grasshopper",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eupeodes fumipennis",
+    "Fun Fact": "Eupeodes fumipennis larvae are voracious aphid predators and can consume up to 60 aphids per day!\n",
+    "Name": "Western Aphideater",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Polycaon stoutii",
+    "Fun Fact": "The Polycaon stoutii beetle is so shiny that it can be used as a living mirror to start a fire on a sunny day.\n",
+    "Name": "Stout's Hardwood Borer",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Melissodes communis",
+    "Fun Fact": "Melissodes communis, a long-horned bee, often gathers pollen by vibrating flowers, a technique called \"buzz pollination.\"\n",
+    "Name": "Common Longhorn Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ocypus olens",
+    "Fun Fact": "Devil's coach horse beetles can release a foul-smelling odor as a defense mechanism.\n",
+    "Name": "Devil's Coach Horse Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Euodynerus hidalgo",
+    "Fun Fact": "The Euodynerus hidalgo wasp builds mud nests that look like tiny pots, often attached to twigs or stems.\n",
+    "Name": "Hidalgo Mason Wasp",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lauritrioza alacris",
+    "Fun Fact": "Lauritrioza alacris nymphs create sugary honeydew that attracts ants, which then protect the nymphs from predators.\n",
+    "Name": "Bay Sucker",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cacopsylla tobirae",
+    "Fun Fact": "Cacopsylla tobirae nymphs create a sugary, waxy substance called a \"lerp\" for protection, making them look like tiny, cottony candies on pittosporum leaves!\n",
+    "Name": "tobira psyllid",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Heliopetes ericetorum",
+    "Fun Fact": "The western white-skipped skipper butterfly can often be found basking in the sun with its wings spread wide to absorb heat!\n",
+    "Name": "Northern White-Skipper",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Platycorypha nigrivirga",
+    "Fun Fact": "The Platycorypha nigrivirga dragonfly is named for its distinctive dark stripes on its wings, which help it blend in with its forest habitat.\n",
+    "Name": "Tipu psyllid",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cryptocephalus castaneus",
+    "Fun Fact": "Cryptocephalus castaneus larvae live in silk-lined cases they drag around, often incorporating their own frass for camouflage.\n",
+    "Name": "Red-headed flea beetle\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gondwanocrypticus platensis",
+    "Fun Fact": "Gondwanocrypticus platensis is a recently discovered beetle species whose name hints at its ancient origins in the supercontinent Gondwana and its cryptic, hidden lifestyle.\n",
+    "Name": "Gondwana beetle\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Trichopsocus clarus",
+    "Fun Fact": "Trichopsocus clarus, a barklouse, can sometimes be found living in homes, feeding on the mold that grows on damp walls.\n",
+    "Name": "Psocid\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bombus vosnesenskii",
+    "Fun Fact": "The Bombus vosnesenskii, or the Yellow-faced Bumble Bee, is known for being one of the first bumble bees to emerge in early spring, making it a vital pollinator when other bee species are still hibernating!\n",
+    "Name": "Yellow-faced Bumble Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Narnia femorata",
+    "Fun Fact": "The nymphs of the Narnia femorata, also known as the acacia bug, are tended and protected by ants, who feed on the honeydew the nymphs produce!\n",
+    "Name": "Leaffooted bug\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Agapostemon subtilior",
+    "Fun Fact": "Agapostemon subtilior females sometimes nest communally, sharing a single nest entrance with multiple chambers for their individual offspring.\n",
+    "Name": "Fine Striped Sweat Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Millipede\n",
+    "Scientific Name": "Ophyiulus pilosus",
+    "Fun Fact": "The bristly millipede, *Ophyiulus pilosus*, glows in the dark due to bioluminescence!\n",
+    "Name": "Furry Snake Millipede",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Ambigolimax parvipenis",
+    "Fun Fact": "The Ambigolimax parvipenis slug has a name that humorously translates to \"small penis ambiguous slug.\"\n",
+    "Name": "Striped Garden Slug",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Adelpha californica",
+    "Fun Fact": "The California sister butterfly often mimics the poisonous Pipevine Swallowtail to deter predators, even though it isn't poisonous itself!\n",
+    "Name": "California Sister",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pyrausta inornatalis",
+    "Fun Fact": "The Pyrausta inornatalis caterpillar's favorite food is likely plants in the mint family, giving them a potentially minty fresh breath!\n",
+    "Name": "Inornate Pyrausta Moth",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Paropsis atomaria",
+    "Fun Fact": "Paropsis atomaria larvae are covered in a waxy, white substance that helps protect them from predators and the sun.\n",
+    "Name": "Dotted Paropsine Leaf Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ipochus fasciatus",
+    "Fun Fact": "The banded longhorn beetle, *Ipochus fasciatus*, can make a squeaking sound by rubbing its thorax against its abdomen.\n",
+    "Name": "Hairy Borer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pieris rapae",
+    "Fun Fact": "The cabbage white butterfly can taste with its feet!\n",
+    "Name": "Small White",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Scantius aegyptius",
+    "Fun Fact": "The bug Scantius aegyptius exhibits a unique defense mechanism by secreting a foul-smelling liquid when threatened.\n",
+    "Name": "Mediterranean red bug",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nipus biplagiatus",
+    "Fun Fact": "Nipus biplagiatus, a type of ladybug, has spots that can vary in size and sometimes even merge together, making each beetle uniquely patterned!\n",
+    "Name": "Mealybug destroyer\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aedes aegypti",
+    "Fun Fact": "The Aedes aegypti mosquito is such a picky eater that it prefers human blood over animal blood!\n",
+    "Name": "Yellow Fever Mosquito",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Canis latrans",
+    "Fun Fact": "Coyotes can run up to 40 miles per hour!\n",
+    "Name": "Coyote",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pantala flavescens",
+    "Fun Fact": "The Pantala flavescens, or Wandering Glider dragonfly, makes the longest known insect migration, crossing oceans to travel up to 4,400 miles!\n",
+    "Name": "Wandering Glider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Synanthedon bibionipennis",
+    "Fun Fact": "The Douglas-fir pitch moth, Synanthedon bibionipennis, mimics a wasp to deter predators!\n",
+    "Name": "Strawberry Crown Moth",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Zelus renardii",
+    "Fun Fact": "Zelus renardii, also known as the leafhopper assassin bug, often preys on pests in gardens and agricultural fields, making it a beneficial insect for humans!\n",
+    "Name": "Leafhopper Assassin Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ancistrocerus bustamente",
+    "Fun Fact": "The potter wasp *Ancistrocerus bustamente* builds its nests out of mud and provisions them with paralyzed caterpillars for its larvae to eat.\n",
+    "Name": "Potter wasp\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lepinotus reticulatus",
+    "Fun Fact": "Booklice, or Lepinotus reticulatus, can survive for more than a year without food.\n",
+    "Name": "Reticulate-Winged Trogiid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Habropoda depressa",
+    "Fun Fact": "Habropoda depressa males have comically large, heart-shaped faces.\n",
+    "Name": "California Mountain-Digger Bee",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aedes notoscriptus",
+    "Fun Fact": "The Aedes notoscriptus mosquito, also known as the striped mosquito, can lay its eggs in the smallest amount of water, even in discarded bottle caps!\n",
+    "Name": "Striped Mosquito",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Platycheirus trichopus",
+    "Fun Fact": "The Platycheirus trichopus fly has evolved hairy legs to better grip the slippery surfaces of the carnivorous plants where it lays its eggs, protecting its offspring from becoming prey.\n",
+    "Name": "Western Forest Sedgesitter",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Neoscona crucifera",
+    "Fun Fact": "The Hentz orbweaver, Neoscona crucifera, often changes its color to blend in with the bark of the trees it rests on during the day.\n",
+    "Name": "Spotted Orbweaver",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Latrodectus geometricus",
+    "Fun Fact": "Brown widow spider venom is more potent than that of a black widow, but they inject much less venom, making their bites less dangerous to humans.\n",
+    "Name": "Brown Widow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eristalis hirta",
+    "Fun Fact": "The Eristalis hirta, a type of hoverfly, is a master of disguise, mimicking the appearance of a honeybee to avoid predators.\n",
+    "Name": "Black-footed Drone Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hermetia illucens",
+    "Fun Fact": "Black soldier fly larvae can reduce manure volume by 50-60%, making them excellent recyclers on farms.\n",
+    "Name": "Black Soldier Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Vanessa cardui",
+    "Fun Fact": "The painted lady butterfly can travel up to 100 miles per day during its long migrations, sometimes covering thousands of miles over several generations.\n",
+    "Name": "Painted Lady",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Icterus bullockii",
+    "Fun Fact": "Bullock's Orioles often weave their nests so skillfully that they can last for several years!\n",
+    "Name": "Bullock's Oriole",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Ephippiochthonius tetrachelatus",
+    "Fun Fact": "This tiny pseudoscorpion, *Ephippiochthonius tetrachelatus*, can survive being frozen solid!\n",
+    "Name": "Ephippiochthonius tetrachelatus\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Thomomys bottae",
+    "Fun Fact": "Botta's pocket gophers have external, fur-lined cheek pouches they use to carry food and nesting material.\n",
+    "Name": "Botta's Pocket Gopher",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Rattus rattus",
+    "Fun Fact": "Black rats are excellent climbers and are sometimes called roof rats because they often live in the upper parts of buildings.\n",
+    "Name": "Black Rat",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Mus musculus",
+    "Fun Fact": "A house mouse can squeeze through a hole the size of a dime.\n",
+    "Name": "House Mouse",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Rattus norvegicus",
+    "Fun Fact": "Brown rats are so adaptable, they've been found living in almost every environment on Earth, even surviving in sewers and on remote islands!\n",
+    "Name": "Brown Rat",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Araecerus fasciculatus",
+    "Fun Fact": "Coffee beans aren't just for brewing; the coffee bean weevil, *Araecerus fasciculatus*, uses them as a cozy nursery for its young!\n",
+    "Name": "Coffee Bean Weevil",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Piranga rubra",
+    "Fun Fact": "Summer Tanagers change color as they mature: males go from greenish-yellow to bright red, while females go from greenish-yellow to dull yellowish-orange.\n",
+    "Name": "Summer Tanager",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Empidonax hammondii",
+    "Fun Fact": "The Hammond's Flycatcher migrates incredibly far, sometimes traveling over 2,500 miles between its breeding and wintering grounds!\n",
+    "Name": "Hammond's Flycatcher",
+    "Rarity": 3
+  },
+  {
+    "Type": "Amphibian\n",
+    "Scientific Name": "Batrachoseps nigriventris",
+    "Fun Fact": "The black-bellied slender salamander, Batrachoseps nigriventris, can stay perfectly still for hours to avoid detection by predators!\n",
+    "Name": "Black-bellied Slender Salamander",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhyzobius forestieri",
+    "Fun Fact": "Rhyzobius forestieri beetles are tiny but mighty predators, often used in gardens to munch on scale insects that can harm plants!\n",
+    "Name": "Forestier's ladybird\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lepisma saccharinum",
+    "Fun Fact": "Silverfish can survive for a year or more without eating!\n",
+    "Name": "Common Silverfish",
+    "Rarity": 1
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Diachea leucopodia",
+    "Fun Fact": "Diachea leucopodia, also known as \"chocolate tube slime,\" can move up to an inch per hour when searching for food.\n",
+    "Name": "White-footed Slime",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Hibana incursa",
+    "Fun Fact": "Hibana incursa spiders can camouflage themselves to match the color of the flowers they inhabit, ambushing unsuspecting prey.\n",
+    "Name": "Goldenrod crab spider\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Colaptes auratus",
+    "Fun Fact": "Northern flickers are one of the few woodpeckers that frequently forage for food on the ground, using their slightly curved bill to dig for ants and beetle larvae.\n",
+    "Name": "Northern Flicker",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Corthylio calendula",
+    "Fun Fact": "Ruby-crowned Kinglets can sing two different songs at the same time.\n",
+    "Name": "Ruby-crowned Kinglet",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Pholcus phalangioides",
+    "Fun Fact": "Daddy long-legs spiders, or cellar spiders, have a defense mechanism of vibrating rapidly in their webs when disturbed, making it difficult for predators to focus on them!\n",
+    "Name": "Long-bodied Cellar Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Falco columbarius",
+    "Fun Fact": "Merlins, the smallest falcon in North America, were once called \"Pigeon Hawks\" due to their size and resemblance to pigeons.\n",
+    "Name": "Merlin",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Zonotrichia albicollis",
+    "Fun Fact": "White-throated Sparrows have two distinct color morphs, white-striped and tan-striped, with different personalities and mating strategies.\n",
+    "Name": "White-throated Sparrow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Tyrannus verticalis",
+    "Fun Fact": "The Western Kingbird, *Tyrannus verticalis*, often uses artificial structures like fence posts and utility poles as elevated perches to spot insects.\n",
+    "Name": "Western Kingbird",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Leptoglossus occidentalis",
+    "Fun Fact": "Western conifer seed bugs release a pungent odor when disturbed, sometimes described as smelling like pine or almonds!\n",
+    "Name": "Western Conifer Seed Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ceratitis capitata",
+    "Fun Fact": "The Mediterranean fruit fly, Ceratitis capitata, can infest over 300 different types of fruits, vegetables, and nuts!\n",
+    "Name": "Mediterranean Fruit Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Neotephritis finalis",
+    "Fun Fact": "Neotephritis finalis larvae create galls on plants, essentially building their own tiny homes and food sources within the plant tissue.\n",
+    "Name": "Sunflower Seed Maggot",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hyles lineata",
+    "Fun Fact": "The White-lined Sphinx moth, Hyles lineata, can hover in mid-air like a hummingbird while feeding on nectar.\n",
+    "Name": "White-lined Sphinx",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sturnus vulgaris",
+    "Fun Fact": "European starlings can mimic the sounds of other birds, animals, and even mechanical devices.\n",
+    "Name": "European Starling",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Vallonia pulchella",
+    "Fun Fact": "Despite their tiny size (about 2mm), Vallonia pulchella snails can survive being frozen!\n",
+    "Name": "Lovely Vallonia",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Bubo virginianus",
+    "Fun Fact": "Great horned owls can swivel their heads 270 degrees, allowing them to see in almost every direction without moving their bodies.\n",
+    "Name": "Great Horned Owl",
+    "Rarity": 1
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Fuligo septica",
+    "Fun Fact": "Fuligo septica, also known as dog vomit slime mold, can move up to a meter!\n",
+    "Name": "Dog Vomit Slime Mold",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Aeronautes saxatalis",
+    "Fun Fact": "White-throated Swifts are such fast fliers that they can reach speeds of over 100 miles per hour!\n",
+    "Name": "White-throated Swift",
+    "Rarity": 1
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Ceratiomyxa fruticulosa",
+    "Fun Fact": "Ceratiomyxa fruticulosa, also known as coral slime mold, is one of the few slime molds that creates fruiting bodies on plant stems instead of decaying logs.\n",
+    "Name": "Common Coral Slime",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Heraclides rumiko",
+    "Fun Fact": "The Heraclides rumiko butterfly is named after Rumiko Takahashi, a famous Japanese manga artist known for works like \"Urusei Yatsura\" and \"Ranma ½.\"\n",
+    "Name": "Western Giant Swallowtail",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Plutella xylostella",
+    "Fun Fact": "The diamondback moth, *Plutella xylostella*, can develop resistance to insecticides incredibly quickly, sometimes in just a few generations!\n",
+    "Name": "Diamondback Moth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Branta canadensis",
+    "Fun Fact": "Canada geese are so adaptable, they can live in diverse environments from golf courses to arctic tundra.\n",
+    "Name": "Canada Goose",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Liriomyza fricki",
+    "Fun Fact": "Liriomyza fricki larvae create distinctive serpentine mines in the leaves of their host plants, resembling tiny works of art.\n",
+    "Name": "Frick fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Trachelas pacificus",
+    "Fun Fact": "The Pacificus Trachelas spider can be found exclusively in California and is known for its cream-colored body and nocturnal hunting habits.\n",
+    "Name": "Bull-headed sac spider",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Halmus chalybeus",
+    "Fun Fact": "Halmus chalybeus, also known as the steelblue ladybird, feeds on eucalyptus saplings, which is unusual for ladybirds as most prefer to eat aphids and other plant pests.\n",
+    "Name": "Steelblue Lady Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Myiarchus cinerascens",
+    "Fun Fact": "Ash-throated Flycatchers sometimes use shed snakeskin in their nests, possibly to deter predators!\n",
+    "Name": "Ash-throated Flycatcher",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Solenopsis texana",
+    "Fun Fact": "Texas fire ants can form rafts of thousands of individuals to survive floods.\n",
+    "Name": "Texas Thief Ant",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Scyphophorus acupunctatus",
+    "Fun Fact": "The cactus longhorn beetle, *Scyphophorus acupunctatus*, can survive for months inside a cactus without any external food or water.\n",
+    "Name": "Sisal Weevil",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Xylocopa tabaniformis",
+    "Fun Fact": "Xylocopa tabaniformis, also known as the horsefly-like carpenter bee, has a fuzzy abdomen that helps it collect pollen efficiently.\n",
+    "Name": "Horse-fly Carpenter Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bombus californicus",
+    "Fun Fact": "California bumble bees are important pollinators of wildflowers and crops, including tomatoes, peppers, and cranberries.\n",
+    "Name": "California Bumble Bee",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Toxomerus marginatus",
+    "Fun Fact": "The Syrphid fly, Toxomerus marginatus, is a bee mimic whose larvae are voracious aphid predators, making them a gardener's best friend.\n",
+    "Name": "Margined Calligrapher",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhionaeschna multicolor",
+    "Fun Fact": "The Blue-eyed Darner dragonfly's bright blue eyes can see nearly 360 degrees!\n",
+    "Name": "Blue-eyed Darner",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Psittacara mitratus",
+    "Fun Fact": "The Mitred parakeet is known for forming massive communal roosts, sometimes with hundreds or even thousands of individuals squawking together!\n",
+    "Name": "Mitred Parakeet",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Trimerotropis pallidipennis",
+    "Fun Fact": "Pallid-winged grasshoppers can form massive swarms that travel hundreds of miles, devouring crops in their path!\n",
+    "Name": "Pallid-winged Grasshopper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Falco peregrinus",
+    "Fun Fact": "The peregrine falcon is the fastest animal on Earth, reaching speeds of over 200 mph during its hunting dives!\n",
+    "Name": "Peregrine Falcon",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Synanthedon resplendens",
+    "Fun Fact": "The resplendent clearwing moth mimics the appearance of a wasp, deterring predators with its convincing disguise.\n",
+    "Name": "Sycamore Borer Moth",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lema daturaphila",
+    "Fun Fact": "The three-lined potato beetle, *Lema daturaphila*, is a bit of a picky eater, preferring plants in the nightshade family, like potatoes, tomatoes, and even some weeds!\n",
+    "Name": "Three-lined Potato Beetle",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Empidonax traillii",
+    "Fun Fact": "Willow Flycatchers change their song depending on where they live, creating regional dialects!\n",
+    "Name": "Willow Flycatcher",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Euphyllura olivina",
+    "Fun Fact": "Euphyllura olivina nymphs create protective, cotton-like shelters on olive trees, sometimes leading to them being called \"olive psyllid cottony nymphs.\"\n",
+    "Name": "olive psyllid",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Brephidium exilis",
+    "Fun Fact": "The Western Pygmy Blue butterfly, Brephidium exilis, is one of the smallest butterflies in the world, with a wingspan about the size of your fingernail!\n",
+    "Name": "Western Pygmy-Blue",
+    "Rarity": 2
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Zonitoides arboreus",
+    "Fun Fact": "The quick-dispersing Zonitoides arboreus snail can spread rapidly thanks to its ability to reproduce asexually and its tendency to hitchhike on plants and animals.\n",
+    "Name": "Quick Gloss Snail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Psyllobora vigintimaculata",
+    "Fun Fact": "The twenty-spotted lady beetle, Psyllobora vigintimaculata, is a fungus-eating ladybug, unlike most of its relatives who prefer munching on aphids.\n",
+    "Name": "Twenty-spotted Lady Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cerobasis guestfalica",
+    "Fun Fact": "The beetle Cerobasis guestfalica can survive for over a year without food or water by entering a state of suspended animation.\n",
+    "Name": "Dwarf wheat\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Neocoelidiana obscura",
+    "Fun Fact": "Neocoelidiana obscura, a leafhopper, has nymphs that can change their body color to match the color of the leaf they're feeding on for camouflage!\n",
+    "Name": "Sharpshooter\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Vanessa virginiensis",
+    "Fun Fact": "The American Lady butterfly is a master of disguise, using its muted colors to blend in with bark and leaf litter.\n",
+    "Name": "American Lady",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Microtus californicus",
+    "Fun Fact": "California voles are excellent swimmers and often use waterways to escape predators or travel to new areas.\n",
+    "Name": "California Vole",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Reithrodontomys megalotis",
+    "Fun Fact": "The western harvest mouse, *Reithrodontomys megalotis*, often builds its nest off the ground, weaving it into tall grasses or shrubs.\n",
+    "Name": "Western Harvest Mouse",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dione vanillae",
+    "Fun Fact": "Dione vanillae butterflies have a peculiar taste for passionflower vines, and caterpillars can store toxins from these plants, making them unpalatable to predators!\n",
+    "Name": "Gulf Fritillary",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Chamaea fasciata",
+    "Fun Fact": "The wrentit, *Chamaea fasciata*, is so unique it's the only species in its genus *Chamaea* and family Chamaeidae.\n",
+    "Name": "Wrentit",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Pheucticus melanocephalus",
+    "Fun Fact": "Black-headed Grosbeaks are sometimes called \"cut-throats\" because the male's song sounds like he's clearing his throat!\n",
+    "Name": "Black-headed Grosbeak",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ctenolepisma longicaudatum",
+    "Fun Fact": "Silverfish can live for a year or more without eating!\n",
+    "Name": "Long-tailed Silverfish",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Perdita rhois",
+    "Fun Fact": "Perdita rhois bees are so tiny that they can nest in the hollow stems of plants.\n",
+    "Name": "Rhus Fairy Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pontia protodice",
+    "Fun Fact": "The checkered white butterfly, Pontia protodice, can have different wing patterns depending on the season, with summer forms often being more heavily marked than spring forms.\n",
+    "Name": "Checkered White",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gonipterus platensis",
+    "Fun Fact": "The eucalyptus snout beetle, Gonipterus platensis, can defoliate entire eucalyptus plantations, but their larvae carry a \"backpack\" of their own poop for protection.\n",
+    "Name": "Eucalyptus snout beetle\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ctenolepisma lineatum",
+    "Fun Fact": "Silverfish can live for a year or more without eating.\n",
+    "Name": "Four-lined Silverfish",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ozodiceromyia nigrimana",
+    "Fun Fact": "The Ozodiceromyia nigrimana fly is a master of disguise, mimicking wasps to avoid predation!\n",
+    "Name": "Black Soldier Fly\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Toxomerus politus",
+    "Fun Fact": "Toxomerus politus, also known as the Maize Calligrapher Fly, is a master of disguise, mimicking wasps to avoid predators!\n",
+    "Name": "Maize Calligrapher",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Brachymyrmex patagonicus",
+    "Fun Fact": "Brachymyrmex patagonicus ants are so tiny they can nest inside acorns!\n",
+    "Name": "Dark Rover Ant",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Minettia flaveola",
+    "Fun Fact": "The fly, Minettia flaveola, is known to aggregate in large numbers on fresh dung, likely to feed and mate.\n",
+    "Name": "Yellow dung fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Cathartes aura",
+    "Fun Fact": "Turkey vultures can smell carrion from up to a mile away!\n",
+    "Name": "Turkey Vulture",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Araneus gemma",
+    "Fun Fact": "The cat-faced spider, *Araneus gemma*, can change its color to blend in with its surroundings, ranging from pale yellow to reddish-brown!\n",
+    "Name": "Gem-shaped Orbweaver",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Prenolepis imparis",
+    "Fun Fact": "Prenolepis imparis ants can survive for months without food by slowing down their metabolism and feeding on their own fat reserves.\n",
+    "Name": "American Winter Ant",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Homoneura occidentalis",
+    "Fun Fact": "The western homoneurid fly, *Homoneura occidentalis*, sometimes gathers in large groups on foliage, possibly as a form of mate-finding behavior.\n",
+    "Name": "Western Lauxaniid Fly\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Diabrotica undecimpunctata",
+    "Fun Fact": "Spotted cucumber beetles, also known as Diabrotica undecimpunctata, can transmit plant diseases while also enjoying a diet of over 200 different plant species!\n",
+    "Name": "Spotted Cucumber Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Incisitermes minor",
+    "Fun Fact": "Western drywood termites can live completely inside wood without ever needing to contact the soil.\n",
+    "Name": "Western Drywood Termite",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Amphibolips quercuspomiformis",
+    "Fun Fact": "The gall created by the Amphibolips quercuspomiformis wasp can look so much like an apple that it's sometimes called an \"apple gall.\"\n",
+    "Name": "Live Oak Apple Gall Wasp",
+    "Rarity": 3
+  },
+  {
+    "Type": "Animal\n",
+    "Scientific Name": "Endeavouria septemlineata",
+    "Fun Fact": "The Endeavouria septemlineata, a type of goby, can change its color to blend in with its surroundings, helping it avoid predators or ambush prey.\n",
+    "Name": "Bumblebee\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Prosapia ignifera",
+    "Fun Fact": "The two-lined spittlebug, *Prosapia ignifera*, can jump over 70 times its body length, which is like a human jumping over a football field!\n",
+    "Name": "Red-banded spittlebug\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pantomorus cervinus",
+    "Fun Fact": "Full grown weevils are all female and don't need males to reproduce.\n",
+    "Name": "Fuller's rose weevil",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhopalomyia californica",
+    "Fun Fact": "Rhopalomyia californica, also known as the coyote bush gall midge, creates distinctive, fuzzy galls on coyote bush plants that look like pom-poms.\n",
+    "Name": "Coyote Brush Bud Gall Midge",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nephus guttulatus",
+    "Fun Fact": "Nephus guttulatus beetles are like tiny, spotted superheroes of the citrus world, helping to control populations of citrus mealybugs and scale insects that can damage fruit trees!\n",
+    "Name": "Mealybug destroyer\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Calycomyza malvae",
+    "Fun Fact": "The leaf mines created by *Calycomyza malvae* larvae can look like tiny, meandering works of art on mallow leaves.\n",
+    "Name": "Mallow Leaf Miner",
+    "Rarity": 3
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Milax gagates",
+    "Fun Fact": "The slug Milax gagates, also known as the jet black slug, can vary in color and may not always be black!\n",
+    "Name": "Greenhouse Slug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Antianthe expansa",
+    "Fun Fact": "Antianthe expansa, a sea slug, has a symbiotic relationship with algae that live within its body, providing it with nutrients through photosynthesis!\n",
+    "Name": "Solanaceous Treehopper",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Acizzia hakeae",
+    "Fun Fact": "Acizzia hakeae creates protective, sugary lerps that look like tiny white scales on Hakea plants.\n",
+    "Name": "Hakea psyllid\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eleodes littoralis",
+    "Fun Fact": "The Eleodes littoralis beetle can survive being submerged in water for up to 45 minutes by trapping air bubbles under its elytra.\n",
+    "Name": "Beach Tenebrionid\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Tyrannus vociferans",
+    "Fun Fact": "Cassin's Kingbirds, also known as Tyrannus vociferans, can mimic the calls of other birds, likely to trick them into revealing their location!\n",
+    "Name": "Cassin's Kingbird",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Oxycarenus hyalinipennis",
+    "Fun Fact": "The cotton seed bug, *Oxycarenus hyalinipennis*, can cause significant economic damage to cotton crops by feeding on developing seeds and lint, sometimes leading to yield losses of up to 50%.\n",
+    "Name": "Cotton Seed Bug",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Xylocopa tabaniformis orpifex",
+    "Fun Fact": "Carpenter bees like Xylocopa tabaniformis orpifex create perfectly round entrance holes in wood, often leading to multiple nesting chambers!\n",
+    "Name": "Foothill Carpenter Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga pensylvanica",
+    "Fun Fact": "The Chestnut-sided Warbler can change its song based on its surroundings and whether it's trying to attract a mate or defend its territory.\n",
+    "Name": "Chestnut-sided Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Diachus auratus",
+    "Fun Fact": "The iridescent, golden-green Diachus auratus beetle gets its shimmering color from microscopic structures on its wing covers that reflect light.\n",
+    "Name": "Bronze Leaf Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Pycnonotus jocosus",
+    "Fun Fact": "Red-whiskered Bulbuls, *Pycnonotus jocosus*, can mimic the calls of other birds and even some mechanical sounds!\n",
+    "Name": "Red-whiskered Bulbul",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Vanessa atalanta",
+    "Fun Fact": "The red admiral butterfly can taste with its feet!\n",
+    "Name": "Red Admiral",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Homalodisca vitripennis",
+    "Fun Fact": "Glassy-winged sharpshooters can transmit a plant-killing bacteria called Xylella fastidiosa, earning them the nickname \"plant vampires.\"\n",
+    "Name": "Glassy-winged Sharpshooter",
+    "Rarity": 1
+  },
+  {
+    "Type": "Animal\n",
+    "Scientific Name": "Parakontikia ventrolineata",
+    "Fun Fact": "Parakontikia ventrolineata, a colorful land planarian, can regenerate into two complete individuals if cut in half lengthwise.\n",
+    "Name": "Hammerhead worm\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Castianeira thalia",
+    "Fun Fact": "Castianeira thalia spiders are known for their speed and agility, often running sideways like crabs to evade predators.\n",
+    "Name": "Ant spider\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Litargus balteatus",
+    "Fun Fact": "Litargus balteatus beetles are known to be predators of mites and scale insects, making them beneficial insects in agricultural settings!\n",
+    "Name": "Silken fungus beetle\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Feltia subterranea",
+    "Fun Fact": "The dingy cutworm, *Feltia subterranea*, can cause significant damage to crops by feeding on plant stems at or below the soil surface, often severing them and leading to plant death.\n",
+    "Name": "Subterranean Dart",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Protopulvinaria pyriformis",
+    "Fun Fact": "The pear-shaped scale insect, Protopulvinaria pyriformis, is a sap-sucking insect that, despite its small size, can cause significant damage to ornamental plants by weakening them and promoting the growth of sooty mold!\n",
+    "Name": "Pyriform Scale",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pellaea stictica",
+    "Fun Fact": "This fern's name, *Pellaea stictica*, refers to the sticky substance it produces, likely as a defense mechanism against herbivores or to help retain moisture.\n",
+    "Name": "Sticky cliff brake\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhopalomyia floccosa",
+    "Fun Fact": "Rhopalomyia floccosa galls, formed on coyote brush, can look so much like flowers that they're often mistaken for them!\n",
+    "Name": "Sagebrush Woolly Stem Gall Midge",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Paropsisterna m-fuscum",
+    "Fun Fact": "Paropsisterna m-fuscum larvae use their own fecal shields for protection from predators!\n",
+    "Name": "Eucalyptus Leaf Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cryptamorpha desjardinsi",
+    "Fun Fact": "Cryptamorpha desjardinsi is known to inhabit the nests of social spiders, feeding on dead insects and spider droppings within the nest.\n",
+    "Name": "Desjardins's Flat Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Millipede\n",
+    "Scientific Name": "Gosodesmus claremontus",
+    "Fun Fact": "Gosodesmus claremontus millipedes are so tiny, they're smaller than a grain of rice!\n",
+    "Name": "Pink Feather Boa Millipede",
+    "Rarity": 5
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Lauria cylindracea",
+    "Fun Fact": "Lauria cylindracea snails can survive being frozen for several weeks!\n",
+    "Name": "Common Chrysalis-Snail",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lasioglossum ovaliceps",
+    "Fun Fact": "Lasioglossum ovaliceps bees have a unique way of defending themselves by curling into a tight ball when threatened, resembling a tiny, fuzzy pill!\n",
+    "Name": "Oval-headed Sweat Bee",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Supella longipalpa",
+    "Fun Fact": "Brown-banded cockroaches prefer warm, humid environments and can often be found hiding in electronics like TVs and microwaves.\n",
+    "Name": "Brown-banded Cockroach",
+    "Rarity": 1
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Rhinoclemmys pulcherrima manni",
+    "Fun Fact": "The painted wood turtle, Rhinoclemmys pulcherrima manni, boasts a unique \"fingerprint\" on its shell, as no two individuals share the exact same pattern of vibrant red and yellow markings!\n",
+    "Name": "Central American Wood Turtle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Rhinoclemmys pulcherrima",
+    "Fun Fact": "The Painted Wood Turtle, Rhinoclemmys pulcherrima, is known for its vibrant colors and patterns, which are unique to each individual turtle, like a fingerprint!\n",
+    "Name": "Painted Wood Turtle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Aratinga nenday",
+    "Fun Fact": "Nanday parakeets are known for their loud, distinctive calls, often described as sounding like they're \"arguing\" or \"scolding.\"\n",
+    "Name": "Nanday Parakeet",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Forficula dentata",
+    "Fun Fact": "The Forficula dentata earwig exhibits maternal care, guarding its eggs and newly hatched nymphs, which is unusual for insects.\n",
+    "Name": "Western Earwig",
+    "Rarity": 4
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Leocarpus fragilis",
+    "Fun Fact": "The slime mold *Leocarpus fragilis* is also known as \"insect eggs slime\" due to its resemblance to a cluster of insect eggs.\n",
+    "Name": "insect-egg slime",
+    "Rarity": 5
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Metaltella simoni",
+    "Fun Fact": "Metaltella simoni spiders are known for their communal living, where dozens or even hundreds of individuals can cooperate in building and maintaining massive web complexes.\n",
+    "Name": "South American Toothed Hacklemesh Weaver",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Phanias harfordi",
+    "Fun Fact": "Harford's jumping spider has a unique courtship display where the male waves his first pair of legs and vibrates his abdomen to attract a female.\n",
+    "Name": "Harford's jumping spider\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Nigma linsdalei",
+    "Fun Fact": "Nigma linsdalei, also known as the Linsdale's Meshweb Spider, is unique because it's one of the few spider species known to exhibit social behavior, living in communal webs with hundreds of individuals.\n",
+    "Name": "Linsdale's Nurseryweb Spider\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bactrocera oleae",
+    "Fun Fact": "Olive fruit flies can detect the color yellow, which is why yellow sticky traps are often used to monitor and control their populations in olive groves.\n",
+    "Name": "Olive fruit fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bactericera cockerelli",
+    "Fun Fact": "The potato psyllid, Bactericera cockerelli, can transmit a bacterium that causes \"zebra chip\" disease in potatoes, making the potatoes look striped when fried.\n",
+    "Name": "Potato Psyllid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bactericera maculipennis",
+    "Fun Fact": "The Bactericera maculipennis, also known as the potato psyllid, can transmit a bacterium to potato plants that causes \"zebra chip\" disease, making the potatoes look striped and taste bitter when fried!\n",
+    "Name": "Potato psyllid\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Heteropsylla texana",
+    "Fun Fact": "The Texas acacia psyllid, *Heteropsylla texana*, can cause significant leaf drop on acacia trees but usually doesn't kill the tree, making it more of a nuisance than a deadly pest.\n",
+    "Name": "Mesquite Psyllid",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Trioza adventicia",
+    "Fun Fact": "The Jumping Bristle-grass Psyllid's nymphs make little cone-shaped galls on grass blades, like tiny teepees for bugs!\n",
+    "Name": "Syzygium Leaf Psyllid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Acalymma trivittatum",
+    "Fun Fact": "Three-striped cucumber beetles can transmit squash mosaic virus and other diseases to cucurbit crops.\n",
+    "Name": "Western Striped Cucumber Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gratiana pallidula",
+    "Fun Fact": "The Gratiana pallidula, also known as the eggplant tortoise beetle, is a master of disguise, using its own excrement to create a \"shield\" that deters predators.\n",
+    "Name": "Eggplant Tortoise Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Apocrypha anthicoides",
+    "Fun Fact": "The longhorn beetle Apocrypha anthicoides mimics soldier beetles to avoid predators.\n",
+    "Name": "Ant beetle\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Tetraleurodes perileuca",
+    "Fun Fact": "Tetraleurodes perileuca nymphs create elaborate, waxy \"snowflake\" patterns on the undersides of leaves.\n",
+    "Name": "Stanford's Whitefly",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Menemerus bivittatus",
+    "Fun Fact": "Menemerus bivittatus, the gray wall jumper, can jump over 50 times their own body length!\n",
+    "Name": "Gray Wall Jumping Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthrenus verbasci",
+    "Fun Fact": "Varied carpet beetle larvae are often mistaken for pantry pests because they feed on a wide range of items, including grains, spices, and pet food.\n",
+    "Name": "Varied Carpet Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sphyrapicus nuchalis",
+    "Fun Fact": "The Red-naped Sapsucker drills neat rows of sapwells in trees, creating \"sap ladders\" that attract insects and hummingbirds, benefiting the entire forest ecosystem.\n",
+    "Name": "Red-naped Sapsucker",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Parcoblatta americana",
+    "Fun Fact": "Despite their name, the American cockroach is believed to have originated in Africa.\n",
+    "Name": "Western Wood Cockroach",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ceutorhynchus obstrictus",
+    "Fun Fact": "The cabbage seedpod weevil, Ceutorhynchus obstrictus, can detect the scent of its host plants from over a kilometer away!\n",
+    "Name": "Cabbage seed Weevil",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Fieberiella florii",
+    "Fun Fact": "The Fieberiella florii can communicate with each other using vibrations they send through the plants they live on.\n",
+    "Name": "Privet Leafhopper",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nomophila nearctica",
+    "Fun Fact": "The Nomophila nearctica, or lucerne moth, can migrate hundreds of miles in a single flight, sometimes aided by jet streams!\n",
+    "Name": "Lucerne Moth",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Calypte costae",
+    "Fun Fact": "Costa's hummingbirds can survive on flower nectar and insects, but they have also been known to drink sap from holes drilled by sapsuckers!\n",
+    "Name": "Costa's Hummingbird",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Phloeodes diabolicus",
+    "Fun Fact": "The diabolical ironclad beetle, Phloeodes diabolicus, can withstand being run over by a car because its exoskeleton can handle approximately 39,000 times its own body weight.\n",
+    "Name": "Diabolical Ironclad Beetle",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Calliphora vicina",
+    "Fun Fact": "The blue bottle fly, Calliphora vicina, is often one of the first insects to arrive at a dead body, making them valuable to forensic entomologists in estimating time of death!\n",
+    "Name": "Blue Blowfly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Aceria paracalifornica",
+    "Fun Fact": "Aceria paracalifornica mites cause witches' brooms, dense clusters of distorted twigs, on their pine tree hosts.\n",
+    "Name": "California Sagebrush Gall Mite",
+    "Rarity": 1
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Neotoma macrotis",
+    "Fun Fact": "Big-eared woodrats, also known as *Neotoma macrotis*, are skilled nest builders and often incorporate shiny objects they find into their homes, leading to the nickname \"trade rat\" due to their habit of swapping out items.\n",
+    "Name": "Big-eared Woodrat",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Smerinthus ophthalmica",
+    "Fun Fact": "The Smerinthus ophthalmica moth has striking eyespots on its hindwings that it flashes to startle predators.\n",
+    "Name": "Western Eyed Sphinx",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Blattella germanica",
+    "Fun Fact": "German cockroaches can run up to 3 miles per hour, making them some of the fastest insects on Earth.\n",
+    "Name": "German Cockroach",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Drosophila suzukii",
+    "Fun Fact": "Unlike most fruit flies that prefer rotting fruit, the female spotted wing drosophila can lay eggs in ripening fruit, causing significant damage to crops.\n",
+    "Name": "Spotted-winged Drosophila",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ascalapha odorata",
+    "Fun Fact": "In some cultures, the black witch moth is associated with death or bad luck, while in others, it symbolizes money or good fortune.\n",
+    "Name": "Black Witch",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Manduca quinquemaculatus",
+    "Fun Fact": "The caterpillar of the Manduca quinquemaculatus, also known as the tomato hornworm, can eat an entire tomato plant in a single day!\n",
+    "Name": "Five-spotted Hawk Moth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Arachnis picta",
+    "Fun Fact": "The Painted Tiger Moth (Arachnis picta) caterpillars have a unique defense mechanism: they regurgitate on predators when threatened!\n",
+    "Name": "Painted Tiger Moth",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Toumeyella liriodendri",
+    "Fun Fact": "Toumeyella liriodendri, also known as the tuliptree scale, excretes a sugary substance called honeydew that attracts ants, bees, and wasps, which in turn protect the scale from predators!\n",
+    "Name": "Tuliptree scale",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Aceria aloinis",
+    "Fun Fact": "The Aloe mite, *Aceria aloinis*, causes bizarre, tumor-like growths called galls on aloe plants.\n",
+    "Name": "Aloe Gall Mite",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anax junius",
+    "Fun Fact": "The common green darner dragonfly, Anax junius, can migrate over 1,000 miles, sometimes traveling in swarms so large they appear on weather radar!\n",
+    "Name": "Common Green Darner",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Habronattus pyrrithrix",
+    "Fun Fact": "Habronattus pyrrithrix males have iridescent leg scales they flash during their elaborate courtship dances, which are visible in ultraviolet light.\n",
+    "Name": "Regal jumping spider\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Allograpta exotica",
+    "Fun Fact": "Allograpta exotica larvae are voracious aphid predators and can consume up to 400 aphids during their development!\n",
+    "Name": "Exotic Streaktail",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ancistrocerus tuberculocephalus",
+    "Fun Fact": "The potter wasp Ancistrocerus tuberculocephalus meticulously crafts tiny mud pots as nests, often adorning them with whimsical, bumpy textures!\n",
+    "Name": "Potter wasp\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Plodia interpunctella",
+    "Fun Fact": "Indian meal moths can chew through plastic and cardboard to get to your snacks!\n",
+    "Name": "Indian-Meal Moth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Danepteryx robusta",
+    "Fun Fact": "Danepteryx robusta males have incredibly long antennae, sometimes longer than their entire body length!\n",
+    "Name": "Parsley\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Liorhyssus hyalinus",
+    "Fun Fact": "The Liorhyssus hyalinus, also known as the hyaline grass bug, can sometimes be found overwintering in large groups, creating quite the buggy slumber party!\n",
+    "Name": "Hyaline Grass Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gynaikothrips ficorum",
+    "Fun Fact": "The Cuban laurel thrips, *Gynaikothrips ficorum*, induces distinctive and sometimes elaborate leaf galls on its host plants that look like tiny homes.\n",
+    "Name": "Cuban Laurel Thrips",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Olla v-nigrum",
+    "Fun Fact": "Olla v-nigrum larvae are voracious aphid predators, consuming up to 50 aphids a day!\n",
+    "Name": "Ashy Gray Lady Beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Campyloneura virgula",
+    "Fun Fact": "The Campyloneura virgula is a plant bug known to feed on nettles, but it's also been observed sipping nectar from flowers!\n",
+    "Name": "Leafhopper\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Paltothemis lineatipes",
+    "Fun Fact": "The dragonfly *Paltothemis lineatipes* can sometimes be seen resting or perching vertically, hanging from vegetation like a tiny, colorful ornament.\n",
+    "Name": "Red Rock Skimmer",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pepsis thisbe",
+    "Fun Fact": "Tarantula hawks like Pepsis thisbe are parasitoid wasps that deliver one of the most painful stings in the insect world, primarily to immobilize tarantulas for their larvae to feed on.\n",
+    "Name": "Thisbe's Tarantula-hawk Wasp",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Triepeolus verbesinae",
+    "Fun Fact": "Triepeolus verbesinae, a cuckoo bee, sneaks into the nests of plasterer bees in the genus Colletes to lay its eggs, and its larvae then devour the host's pollen stores!\n",
+    "Name": "Verbesina Longhorn-Cuckoo",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Macrosiphum rosae",
+    "Fun Fact": "Rose aphids can reproduce asexually, allowing a single female to start a whole colony without needing a mate!\n",
+    "Name": "Rose Aphid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Isodontia elegans",
+    "Fun Fact": "The slender soft-winged grass-carrying wasp, Isodontia elegans, stocks its nests with paralyzed grasshoppers and katydids for its young to eat, sometimes using so many that the nest appears overflowing!\n",
+    "Name": "Elegant Grass-carrying Wasp",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Scybalistodes periculosalis",
+    "Fun Fact": "The caterpillar of Scybalistodes periculosalis can roll itself up inside a leaf for protection.\n",
+    "Name": "Asiatic garden borer\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Graphocephala cythura",
+    "Fun Fact": "The sharpshooter Graphocephala cythura can transmit bacteria that cause diseases in economically important plants.\n",
+    "Name": "Blue-green sharpshooter\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cyclocephala lurida",
+    "Fun Fact": "Cyclocephala lurida beetles are attracted to the volatile compounds released by fermenting turfgrass and decaying organic matter, sometimes leading to large gatherings near compost piles or areas with poor drainage.\n",
+    "Name": "Southern Masked Chafer",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Papilio zelicaon",
+    "Fun Fact": "The Anise Swallowtail butterfly, Papilio zelicaon, can taste with its feet!\n",
+    "Name": "Anise Swallowtail",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Macrophthalmothrips argus",
+    "Fun Fact": "Macrophthalmothrips argus has the largest known compound eyes relative to its head size of any known thrip species.\n",
+    "Name": "Argus Onion Thrips\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Chabulina onychinalis",
+    "Fun Fact": "The Chabulina onychinalis is so tiny that it's smaller than a grain of rice!\n",
+    "Name": "Swan plant flower moth",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cyclophora nanaria",
+    "Fun Fact": "The autumnal belle moth, Cyclophora nanaria, has a wingspan of only about 2 cm, making it a tiny treasure to spot!\n",
+    "Name": "Dwarf Tawny Wave",
+    "Rarity": 3
+  },
+  {
+    "Type": "Millipede\n",
+    "Scientific Name": "Blaniulus guttulatus",
+    "Fun Fact": "The spotted snake millipede, *Blaniulus guttulatus*, can sometimes be found in large numbers causing damage to crops, particularly strawberries and potatoes.\n",
+    "Name": "Spotted Snake Millipede",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthomyia oculifera",
+    "Fun Fact": "Anthomyia oculifera, a type of fly, has iridescent eyes that change color depending on the angle of the light.\n",
+    "Name": "Beach fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pseudococcus longispinus",
+    "Fun Fact": "Longtailed mealybugs secrete honeydew, which ants love, so they'll protect the mealybugs from predators in exchange for the sweet treat!\n",
+    "Name": "long-tailed mealybug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Argiope argentata",
+    "Fun Fact": "The silver argiope spider's web shimmers with a zig-zag pattern of silk called a stabilimentum, which reflects UV light to attract unsuspecting insect prey.\n",
+    "Name": "Silver Garden Orbweaver",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Geopelia cuneata",
+    "Fun Fact": "Diamond Doves form strong pair bonds and often preen each other as a sign of affection.\n",
+    "Name": "Diamond Dove",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Limnoporus notabilis",
+    "Fun Fact": "Water striders, like Limnoporus notabilis, can skate on water due to tiny hairs on their legs that repel water.\n",
+    "Name": "Water strider\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Brachymelecta californica",
+    "Fun Fact": "Brachymelecta californica, a cleptoparasitic bee, sneaks into the nests of other bees to lay its eggs on their pollen provisions, essentially stealing their hard-earned food for its own offspring!\n",
+    "Name": "California Digger-cuckoo Bee",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Leptoglossus zonatus",
+    "Fun Fact": "Leptoglossus zonatus, also known as the Western Leaf-footed bug, communicates with vibrations they send through plants.\n",
+    "Name": "Leaf-footed bug\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Buteo jamaicensis calurus",
+    "Fun Fact": "The western red-tailed hawk, *Buteo jamaicensis calurus*, has highly variable plumage, with some individuals being so dark they appear almost black!\n",
+    "Name": "Western Red-tailed Hawk",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ischnura cervula",
+    "Fun Fact": "The Pacific Forktail damselfly's blue coloration can actually change depending on its body temperature, becoming more purple in cooler conditions.\n",
+    "Name": "Pacific Forktail",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Varroa destructor",
+    "Fun Fact": "Despite their tiny size, Varroa mites can transmit at least 18 different viruses to honeybees.\n",
+    "Name": "Varroa Mite",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Columba livia domestica",
+    "Fun Fact": "Pigeons can recognize all 26 letters of the English alphabet.\n",
+    "Name": "Feral Pigeon",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Columba livia",
+    "Fun Fact": "Pigeons can recognize themselves in a mirror, a trait shared by only a few other species like humans, dolphins, and chimpanzees.\n",
+    "Name": "Rock Pigeon",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Anthidiellum notatum",
+    "Fun Fact": "Female Anthidiellum notatum bees use plant resin and pebbles to construct nests, creating tiny fortresses for their young.\n",
+    "Name": "Northern Rotund-Resin Bee",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Cyclosa turbinata",
+    "Fun Fact": "Cyclosa turbinata spiders decorate their webs with debris and dead insects, often arranged to resemble a larger spider, likely to deter predators.\n",
+    "Name": "Humped Trashline Orbweaver",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Zaprionus tuberculatus",
+    "Fun Fact": "Zaprionus tuberculatus, also known as the African fig fly, can be a serious pest because it's attracted to damaged fruit, unlike many other fruit flies that prefer perfectly ripe fruit.\n",
+    "Name": "African fig fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aphis craccivora",
+    "Fun Fact": "Cowpea aphids can reproduce so quickly that a single aphid can produce up to 80 offspring in just one week!\n",
+    "Name": "Cowpea Aphid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Clepsis peritana",
+    "Fun Fact": "The garden tortrix moth, Clepsis peritana, has a wide range of host plants, feeding on over 100 different species!\n",
+    "Name": "Garden Tortrix",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Zootermopsis angusticollis",
+    "Fun Fact": "Zootermopsis angusticollis, also known as the Pacific dampwood termite, can produce defensive secretions with a distinct garlic-like odor when threatened!\n",
+    "Name": "Pacific Dampwood Termite",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Corythucha confraterna",
+    "Fun Fact": "The hawthorn lace bug, Corythucha confraterna, creates intricate, lace-like patterns on the leaves it feeds on, which can sometimes look like artwork.\n",
+    "Name": "Western Sycamore Lace Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Agrius cingulata",
+    "Fun Fact": "The Pink-spotted hawkmoth, also known as Agrius cingulata, can hover in mid-air while feeding on nectar from flowers.\n",
+    "Name": "Pink-spotted Hawkmoth",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Deroceras invadens",
+    "Fun Fact": "Deroceras invadens can reproduce asexually, meaning a single slug can start an entire population all by itself!\n",
+    "Name": "Chestnut Slug",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Stigmella heteromelis",
+    "Fun Fact": "The Stigmella heteromelis moth is so tiny that its wingspan is only about the width of a human fingernail.\n",
+    "Name": "ʻĀnunuu Leafminer\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pagaronia tredecimpunctata",
+    "Fun Fact": "The broad-headed sharpshooter, *Pagaronia tredecimpunctata*, can jump up to 50 times its own body length!\n",
+    "Name": "Twospotted Graphocephala\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Hirundo rustica",
+    "Fun Fact": "Barn swallows can drink while flying by skimming the water's surface with their lower mandible.\n",
+    "Name": "Barn Swallow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Saissetia coffeae",
+    "Fun Fact": "The hemispherical scale, Saissetia coffeae, is a prolific pest that can reproduce asexually, meaning a single female can start an entire infestation without needing a mate!\n",
+    "Name": "Hemispherical Scale",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Cheiracanthium inclusum",
+    "Fun Fact": "The American yellow sac spider, *Cheiracanthium inclusum*, doesn't spin a web to catch prey; instead, it actively hunts at night and hides in a silken sac during the day.\n",
+    "Name": "Agrarian Sac Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Halictus ligatus",
+    "Fun Fact": "Halictus ligatus bees exhibit a fascinating social flexibility, where they can switch between solitary and social nesting behaviors depending on environmental conditions.\n",
+    "Name": "Ligated Furrow Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ectopsocus vachoni",
+    "Fun Fact": "Ectopsocus vachoni, a species of barklouse, can reproduce parthenogenetically, meaning females can produce offspring without mating!\n",
+    "Name": "Barklouse\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Calephelis nemesis",
+    "Fun Fact": "The Calephelis nemesis butterfly has a clever camouflage; its wing patterns mimic bird droppings to avoid predators!\n",
+    "Name": "Fatal Metalmark",
+    "Rarity": 4
+  },
+  {
+    "Type": "Mammal\n",
+    "Scientific Name": "Canis latrans ochropus",
+    "Fun Fact": "The California Valley Coyote, Canis latrans ochropus, can run up to 40 mph and jump distances of almost 14 feet.\n",
+    "Name": "California Valley Coyote",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Allacrotelsa spinulata",
+    "Fun Fact": "Allacrotelsa spinulata is one of the few gecko species that is parthenogenetic, meaning it reproduces without needing a male.\n",
+    "Name": "Silverfish\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Bacterium\n",
+    "Scientific Name": "Serratia marcescens",
+    "Fun Fact": "Serratia marcescens is famous for sometimes producing a red pigment called prodigiosin, which in the past led people to believe that bread and communion wafers were \"bleeding,\" causing widespread fear and religious awe!\n",
+    "Name": "Serratia\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hemieuxoa rudens",
+    "Fun Fact": "Hemieuxoa rudens, a microscopic animal living in marine sediments, can withstand extreme oxygen deprivation, surviving for weeks or even months without oxygen.\n",
+    "Name": "Creaky Dart",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Tachystola hemisema",
+    "Fun Fact": "The caterpillar of Tachystola hemisema creates a mobile home by webbing together leaves and carrying it around for protection!\n",
+    "Name": "Apple moth\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cotinis mutabilis aurantiaca",
+    "Fun Fact": "These beetles often bask in the sun to raise their body temperature, allowing them to fly more efficiently.\n",
+    "Name": "Figeater\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Oegoconia novimundi",
+    "Fun Fact": "Oegoconia novimundi caterpillars are known to feed on a wide range of decaying plant matter, including stored grains, making them a potential pest in agricultural settings!\n",
+    "Name": "Four-spotted Yellowneck Moth",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dishkeya bifurcata",
+    "Fun Fact": "The bifurcated fingernail clam, *Dishkeya bifurcata*, is so tiny you could fit several adults on a single fingernail!\n",
+    "Name": "Sand dollar\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Creophilus maxillosus",
+    "Fun Fact": "Devil's coach horse larvae use their mandibles to tear apart prey and then regurgitate digestive enzymes onto the remains, predigesting them before consuming the resulting soup.\n",
+    "Name": "hairy rove beetle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Liriomyza temperata",
+    "Fun Fact": "Liriomyza temperata, a leafminer fly, can cause significant damage to vegetable crops, but adult flies also feed on nectar, helping to pollinate plants in the process.\n",
+    "Name": "Tomato leafminer\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Chinavia hilaris",
+    "Fun Fact": "The Green Stink Bug (Chinavia hilaris) releases a pungent odor when disturbed, deterring predators and even attracting other stink bugs to form aggregations.\n",
+    "Name": "Green Stink Bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Bourletiella juanitae",
+    "Fun Fact": "*Bourletiella juanitae* is a springtail that can jump up to 100 times its body length!\n",
+    "Name": "Springtail\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Ribbonworm\n",
+    "Scientific Name": "Leptonemertes chalicophora",
+    "Fun Fact": "Leptonemertes chalicophora is a ribbon worm that can be found living inside the gills of certain sea squirts.\n",
+    "Name": "Lineus chalicophorus\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ceroplastes sinensis",
+    "Fun Fact": "The Chinese wax scale insect produces a thick, waxy coating that was historically used to make candles and other products.\n",
+    "Name": "Chinese Wax Scale",
+    "Rarity": 1
+  },
+  {
+    "Type": "Millipede\n",
+    "Scientific Name": "Akamptogonus novarae",
+    "Fun Fact": "Akamptogonus novarae is a millipede that curls into a spiral shape when threatened, resembling a tiny cinnamon roll!\n",
+    "Name": "Millipede\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Josephiella microcarpae",
+    "Fun Fact": "Josephiella microcarpae figs are pollinated by their own specific wasp species, which can only reproduce within these particular figs.\n",
+    "Name": "Ficus Gall Wasp",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Epuraea ocularis",
+    "Fun Fact": "These beetles are often found enjoying a free meal in the company of ants!\n",
+    "Name": "Pollen beetle\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Synchlora aerata",
+    "Fun Fact": "The wavy-lined emerald moth camouflages itself by decorating its body with bits of flowers and leaves from the plants it eats!\n",
+    "Name": "Wavy-lined Emerald",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Tamalia coweni",
+    "Fun Fact": "Tamalia coweni aphids can manipulate their host plant to create galls that provide them with shelter and food.\n",
+    "Name": "Manzanita Leafgall Aphid",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Nathrius brevipennis",
+    "Fun Fact": "The longhorn beetle, Nathrius brevipennis, is a wood-boring insect that is able to fly even though it has very short wings!\n",
+    "Name": "Longhorn Beetle",
+    "Rarity": 5
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Phanias monticola",
+    "Fun Fact": "The jumping spider *Phanias monticola* has iridescent scales that shimmer in the sunlight, potentially used for attracting mates or camouflage!\n",
+    "Name": "Sierra Madre Spider\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Araneus andrewsi",
+    "Fun Fact": "Araneus andrewsi, also known as Andrews' orbweaver, is known to vary in color from pale yellow to bright orange, helping them to blend in with the flowers they often inhabit!\n",
+    "Name": "Andrews' Cross Spider\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Scotophaeus blackwalli",
+    "Fun Fact": "Scotophaeus blackwalli, also known as the mouse spider, can flatten their bodies to squeeze into incredibly tight spaces, like under floorboards or behind furniture!\n",
+    "Name": "Mouse Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Latrodectus hesperus",
+    "Fun Fact": "Western black widow spider venom is 15 times more potent than rattlesnake venom, though they inject a much smaller dose.\n",
+    "Name": "Western Black Widow",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Alopecosa kochi",
+    "Fun Fact": "Alopecosa kochi spiders, also known as wolf spiders, are skilled hunters that don't build webs; instead, they chase down their prey with surprising speed and agility.\n",
+    "Name": "Koch's Wolf Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Falconina gracilis",
+    "Fun Fact": "Falconina gracilis is a tiny spider, with the males of some Falconina species being smaller than the females they prey upon before mating.\n",
+    "Name": "Spider\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Parasteatoda tepidariorum",
+    "Fun Fact": "These common house spiders are excellent recyclers, happily consuming shed exoskeletons and dead insects.\n",
+    "Name": "Common House Spider",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Lucilia sericata",
+    "Fun Fact": "The larvae of Lucilia sericata, or the common green bottle fly, are used in maggot therapy to clean wounds, as they only consume dead tissue and secrete antibacterial compounds!\n",
+    "Name": "Common European Greenbottle Fly",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Copestylum marginatum",
+    "Fun Fact": "Copestylum marginatum flies are sometimes called \"garbage flies\" because their larvae are often found in decaying organic matter!\n",
+    "Name": "Margined Calligrapher\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Galgula partita",
+    "Fun Fact": "The larvae of Galgula partita are known to feed on plants in the Amaranthaceae family, including some species of pigweed.\n",
+    "Name": "Wedgling Moth",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Tolype distincta",
+    "Fun Fact": "The Tolype distincta caterpillar has urticating hairs that can cause skin irritation upon contact.\n",
+    "Name": "Lappet Moth\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Springtail\n",
+    "Scientific Name": "Ptenothrix californica",
+    "Fun Fact": "California Springtails are known for their ability to jump up to 100 times their body length!\n",
+    "Name": "California twig ant\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Anthus rubescens",
+    "Fun Fact": "American Pipits have a special protein in their blood that prevents their feet from freezing when they stand on ice and snow!\n",
+    "Name": "American Pipit",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Calophya californica",
+    "Fun Fact": "The nymphs of *Calophya californica* create distinctive lerps, or protective coverings, that look like tiny, white, cottony discs on the leaves of their host plants.\n",
+    "Name": "lemonade berry psyllid",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Elipsocus hyalinus",
+    "Fun Fact": "Elipsocus hyalinus, a type of barklouse, can sometimes be found indoors, especially in places with high humidity, where they feed on mold and mildew.\n",
+    "Name": "Common Barklouse\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ctenarytaina longicauda",
+    "Fun Fact": "The long-tailed psyllid, Ctenarytaina longicauda, produces honeydew that can attract ants, which then protect the psyllids from predators!\n",
+    "Name": "Tristania Psyllid",
+    "Rarity": 3
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Lycogala epidendrum",
+    "Fun Fact": "Wolf's milk slime mold, *Lycogala epidendrum*, may look like a tiny puffball, but it's actually a single-celled organism that can move and consume bacteria!\n",
+    "Name": "Wolf's Milk",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gibbobruchus mimus",
+    "Fun Fact": "Gibbobruchus mimus beetles can trick ants into carrying them back to the ant nest, where they then feast on ant larvae.\n",
+    "Name": "Redbud Seed Weevil",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ozognathus cornutus",
+    "Fun Fact": "The Ozognathus cornutus, or horned armadillo, is known from a single, incomplete fossil skull, making much about its life a mystery!\n",
+    "Name": "Giraffe weevil\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Plegadis chihi",
+    "Fun Fact": "The White-faced Ibis, Plegadis chihi, often nests in colonies alongside other wading birds like herons and egrets, creating a bustling avian metropolis!\n",
+    "Name": "White-faced Ibis",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Selasphorus",
+    "Fun Fact": "The Rufous hummingbird, *Selasphorus rufus*, has the longest migration of any bird its size, traveling over 3,900 miles from Alaska and Canada to Mexico each year.\n",
+    "Name": "Rufous, Allen's, and Allied Hummingbirds",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Corvus",
+    "Fun Fact": "Crows can recognize human faces and hold grudges against people who have wronged them, even teaching other crows to dislike those individuals.\n",
+    "Name": "Crows and Ravens",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Pheucticus ludovicianus",
+    "Fun Fact": "Rose-breasted Grosbeaks use their strong bills to crack open seeds and even eat poisonous insects like monarch butterflies, without being harmed by the toxins!\n",
+    "Name": "Rose-breasted Grosbeak",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Molothrus ater",
+    "Fun Fact": "Brown-headed cowbirds are brood parasites, meaning they lay their eggs in the nests of other bird species and leave the parenting to them!\n",
+    "Name": "Brown-headed Cowbird",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Catharus ustulatus",
+    "Fun Fact": "The Swainson's thrush navigates its long migratory routes partly by using the Earth's magnetic field.\n",
+    "Name": "Swainson's Thrush",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Contopus sordidulus",
+    "Fun Fact": "The Western Wood-Pewee often catches insects in mid-air with a distinctive, almost inaudible, snap of its bill.\n",
+    "Name": "Western Wood-Pewee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Vireo plumbeus",
+    "Fun Fact": "Plumbeous Vireos build cup-shaped nests so sturdy that Brown-headed Cowbirds, known for laying their eggs in other birds' nests, often avoid parasitizing them!\n",
+    "Name": "Plumbeous Vireo",
+    "Rarity": 2
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sphyrapicus",
+    "Fun Fact": "Sapsuckers drill neat rows of holes in trees to drink the sap and also to attract insects, which they then eat!\n",
+    "Name": "Sapsuckers",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Sphyrapicus ruber",
+    "Fun Fact": "The Red-breasted Sapsucker creates sapwells that attract insects, providing food for itself, hummingbirds, and other animals!\n",
+    "Name": "Red-breasted Sapsucker",
+    "Rarity": 3
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Sternotherus odoratus",
+    "Fun Fact": "Stinkpot turtles get their name from the musky odor they release when threatened.\n",
+    "Name": "Eastern Musk Turtle",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Oecobius",
+    "Fun Fact": "Oecobius spiders are so small that they can squeeze through the eye of a needle!\n",
+    "Name": "Wall Spiders",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Melissodes",
+    "Fun Fact": "Melissodes bees are specialized pollen collectors, often preferring the pollen of plants in the sunflower family.\n",
+    "Name": "Long-horned bee\n",
+    "Rarity": 2
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Misumenoides formosipes",
+    "Fun Fact": "The Whitebanded Crab Spider, *Misumenoides formosipes*, can change its color over a period of days to match the flower it's hunting on, providing excellent camouflage.\n",
+    "Name": "White-banded Crab Spider",
+    "Rarity": 3
+  },
+  {
+    "Type": "Amphibian\n",
+    "Scientific Name": "Lithobates catesbeianus",
+    "Fun Fact": "American bullfrogs can jump up to ten times their body length.\n",
+    "Name": "American Bullfrog",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Monomorium ergatogyna",
+    "Fun Fact": "*Monomorium ergatogyna* ants are unusual because the queen can be replaced by a worker ant if she dies, ensuring the colony's survival!\n",
+    "Name": "Ergatogyne Trailing Ant",
+    "Rarity": 4
+  },
+  {
+    "Type": "Reptile\n",
+    "Scientific Name": "Actinemys marmorata",
+    "Fun Fact": "The Western Pond Turtle can hold its breath for up to an hour!\n",
+    "Name": "Western Pond Turtle",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pristoceuthophilus",
+    "Fun Fact": "Pristoceuthophilus, also known as cave crickets, use their long antennae to navigate in complete darkness and can jump surprisingly high when startled!\n",
+    "Name": "Camel cricket\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Eumeninae",
+    "Fun Fact": "Potter wasps are skilled architects, building intricate mud nests that resemble tiny pots or vases.\n",
+    "Name": "Potter and Mason Wasps",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Chrysotoxum",
+    "Fun Fact": "Some species of Chrysotoxum flies mimic wasps, not just in appearance, but also in their buzzing sounds, to deter predators.\n",
+    "Name": "Meadow Flies",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Syrphini",
+    "Fun Fact": "Syrphid fly larvae in the Syrphini tribe are voracious aphid predators, making them a gardener's best friend!\n",
+    "Name": "Flower fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Megalographa biloba",
+    "Fun Fact": "The caterpillar of the Megalographa biloba moth mimics bird droppings to avoid predators.\n",
+    "Name": "Bilobed Looper Moth",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ancistrocerus",
+    "Fun Fact": "Potter wasps, like *Ancistrocerus*, are solitary wasps that build tiny, vase-shaped nests out of mud, often provisioning them with paralyzed caterpillars as food for their larvae.\n",
+    "Name": "Potter wasp\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Hylaeus",
+    "Fun Fact": "Hylaeus bees, also known as masked bees, don't carry pollen on their legs or bodies like other bees; instead, they swallow it and regurgitate it at the nest!\n",
+    "Name": "Masked Bees",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Mecaphesa",
+    "Fun Fact": "Mecaphesa spiders can jump over 50 times their own body length!\n",
+    "Name": "Crab spider\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga coronata coronata",
+    "Fun Fact": "Yellow-rumped Warblers can digest waxes found in bayberries and wax myrtles, allowing them to survive further north than other warblers during the winter.\n",
+    "Name": "Myrtle Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Thaumatomyia glabra",
+    "Fun Fact": "The Thaumatomyia glabra fly larva is a predator that feeds on root aphids living inside sugar beet plants.\n",
+    "Name": "Grave fly\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Geothlypis tolmiei",
+    "Fun Fact": "The MacGillivray's Warbler, *Geothlypis tolmiei*, often hides its nest so well that it's nearly impossible for predators or birdwatchers to find!\n",
+    "Name": "MacGillivray's Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Setophaga petechia",
+    "Fun Fact": "Yellow Warblers sing different songs depending on whether they're trying to attract a mate or defending their territory.\n",
+    "Name": "Yellow Warbler",
+    "Rarity": 1
+  },
+  {
+    "Type": "Slime mold\n",
+    "Scientific Name": "Reticularia lycoperdon",
+    "Fun Fact": "Reticularia lycoperdon, also known as the false puffball, sometimes appears as if someone dropped a handful of scrambled eggs on a log!\n",
+    "Name": "False Puffball",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Empoasca fabae",
+    "Fun Fact": "Potato leafhoppers secrete a toxin that disrupts plant growth, causing a characteristic \"hopperburn\" symptom on leaves.\n",
+    "Name": "Potato Leafhopper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Centris rhodopus",
+    "Fun Fact": "Male Centris rhodopus bees have elongated hind legs that they use to grasp female bees during mating.\n",
+    "Name": "Red-legged Oil-Digger",
+    "Rarity": 4
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ephestiodes gilvescentella",
+    "Fun Fact": "The larvae of Ephestiodes gilvescentella are known to infest dried herbs and spices, sometimes even creating a \"mat\" of webbing in containers.\n",
+    "Name": "Dusky Raisin Moth",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Stethorus punctum picipes",
+    "Fun Fact": "Stethorus punctum picipes is a tiny beetle, smaller than a pinhead, but it can devour up to 50 spider mites a day!\n",
+    "Name": "Spider mite destroyer",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dipalta serpentina",
+    "Fun Fact": "The Dipalta serpentina, or serpent fly, has larvae that are aquatic predators, using their elongated necks to strike at unsuspecting prey!\n",
+    "Name": "Serpentine\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Castianeira athena",
+    "Fun Fact": "Castianeira athena spiders are known for their distinctive reddish-brown coloration and swift movements, often resembling ants, which helps them evade predators.\n",
+    "Name": "Ant spider\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhyzobius lophanthae",
+    "Fun Fact": "Rhyzobius lophanthae beetles are tiny predators that love to eat scale insects and are often used as a natural form of pest control in gardens and orchards!\n",
+    "Name": "Purple Scale Predator",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Psyllobora renifer",
+    "Fun Fact": "The kidney-spot ladybird, Psyllobora renifer, exclusively eats mildew, a type of fungus, unlike most ladybugs that feast on aphids.\n",
+    "Name": "Kidney-spotted Fairy Lady Beetle",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Aphis gossypii",
+    "Fun Fact": "Cotton aphids can reproduce asexually, allowing them to rapidly build large populations.\n",
+    "Name": "Melon Aphid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Rhinacloa forticornis",
+    "Fun Fact": "Rhinacloa forticornis, a tiny plant bug, is known to feast on spider mites, making it a valuable natural pest control agent in agriculture!\n",
+    "Name": "Western Plant Bug",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Corythucha gossypii",
+    "Fun Fact": "The cotton lace bug, Corythucha gossypii, can cause significant damage to cotton crops, but they also feed on other plants like soybeans, okra, and even weeds, making them a generalist pest!\n",
+    "Name": "Cotton lace bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Vireo olivaceus",
+    "Fun Fact": "Red-eyed vireos are champion singers, sometimes singing over 20,000 songs in a single day!\n",
+    "Name": "Red-eyed Vireo",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Gerrini",
+    "Fun Fact": "Gerrhosaurids, also known as plated lizards, can detach their tail as a defense mechanism, and some species can even regrow them!\n",
+    "Name": "Gherkin\n",
+    "Rarity": 4
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Leiothlypis virginiae",
+    "Fun Fact": "Virginia's Warblers often nest in areas recovering from wildfires, using the burned trees and shrubs for cover.\n",
+    "Name": "Virginia's Warbler",
+    "Rarity": 3
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Leiothlypis peregrina",
+    "Fun Fact": "The Tennessee Warbler undertakes one of the longest migrations of any warbler, traveling from Canada and Alaska to spend the winter in Central and South America.\n",
+    "Name": "Tennessee Warbler",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Copestylum violaceum",
+    "Fun Fact": "Copestylum violaceum flies, also known as the violet carrion flies, are attracted to the smell of decaying organic matter but are also important pollinators of certain flowers.\n",
+    "Name": "Violet dung fly\n",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Burnsius albezens",
+    "Fun Fact": "The Zabul skipper, Burnsius albezens, can survive for months as a caterpillar by entering a state of dormancy called diapause.\n",
+    "Name": "White Checkered-Skipper",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Parancistrocerus declivatus",
+    "Fun Fact": "The Parancistrocerus declivatus wasp uses mud to build its nests in pre-existing cavities, sometimes even old beetle burrows in wood.\n",
+    "Name": "Keyhole wasp\n",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Stethorus punctum",
+    "Fun Fact": "Stethorus punctum beetles, also known as spider mite destroyers, can consume up to 60 spider mites per day!\n",
+    "Name": "Spider Mite Destroyer",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Thienemannimyia barberi",
+    "Fun Fact": "The aquatic larvae of Thienemannimyia barberi can survive being frozen solid in ice!\n",
+    "Name": "Barberi midge\n",
+    "Rarity": 5
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Halictus farinosus",
+    "Fun Fact": "Halictus farinosus females sometimes cooperate in nest building and brood rearing, a behavior more commonly associated with social bees.\n",
+    "Name": "Wide-striped Sweat Bee",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Acizzia uncatoides",
+    "Fun Fact": "Acizzia uncatoides, also known as the acacia psyllid, can cause significant damage to acacia trees, but their honeydew production is a food source for ants and other insects, playing a role in the forest ecosystem.\n",
+    "Name": "Acacia Psyllid",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Pycnoscelus surinamensis",
+    "Fun Fact": "Surinam cockroaches are all female and reproduce through parthenogenesis, meaning they don't need males to produce offspring!\n",
+    "Name": "Surinam Cockroach",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Ceroplastes cirripediformis",
+    "Fun Fact": "The barnacle scale insect, *Ceroplastes cirripediformis*, gets its name from its waxy covering, which resembles a tiny, waxy barnacle and helps protect it from predators and environmental hazards.\n",
+    "Name": "Barnacle Scale",
+    "Rarity": 1
+  },
+  {
+    "Type": "Ray-finned fish\n",
+    "Scientific Name": "Carassius auratus",
+    "Fun Fact": "A goldfish's memory span is much longer than commonly believed; they can remember things for months, not just seconds!\n",
+    "Name": "Goldfish",
+    "Rarity": 1
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Aceria baccharices",
+    "Fun Fact": "Aceria baccharices are so tiny, they create structures called galls on Baccharis plants that look like colorful, alien worlds.\n",
+    "Name": "Mule Fat Blister Mite",
+    "Rarity": 3
+  },
+  {
+    "Type": "Arachnid\n",
+    "Scientific Name": "Bothriocyrtum californicum",
+    "Fun Fact": "California trapdoor spiders can live for over 20 years, patiently waiting in their burrows to ambush unsuspecting prey.\n",
+    "Name": "California Trapdoor Spider",
+    "Rarity": 3
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Sophonia orientalis",
+    "Fun Fact": "Sophonia orientalis, a type of leafhopper, can jump over 100 times its own body length!\n",
+    "Name": "Two-spotted Leafhopper",
+    "Rarity": 1
+  },
+  {
+    "Type": "Snail\n",
+    "Scientific Name": "Physella acuta",
+    "Fun Fact": "Physella acuta, also known as the acute bladder snail, can reproduce asexually, meaning a single snail can start a whole new population!\n",
+    "Name": "Acute Bladder Snail",
+    "Rarity": 1
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Dactylopius confusus",
+    "Fun Fact": "The cochineal scale insect, Dactylopius confusus, produces a vibrant red dye called carminic acid, which is used to color everything from food and cosmetics to textiles.\n",
+    "Name": "American cochineal bug",
+    "Rarity": 1
+  },
+  {
+    "Type": "Bird\n",
+    "Scientific Name": "Podilymbus podiceps",
+    "Fun Fact": "Pied-billed grebes can adjust their buoyancy by squeezing air from their feathers, allowing them to sink slowly or even disappear below the water's surface.\n",
+    "Name": "Pied-billed Grebe",
+    "Rarity": 2
+  },
+  {
+    "Type": "Insect\n",
+    "Scientific Name": "Cycloneda polita",
+    "Fun Fact": "Cycloneda polita larvae are voracious aphid predators, consuming up to 50 aphids per day.\n",
+    "Name": "Western Polished Lady Beetle",
+    "Rarity": 1
+  }
+]
